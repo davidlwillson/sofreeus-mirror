@@ -14,14 +14,14 @@ See also: [The Past](schedule-past.md)
 | 2019-08-03    | nginx | Code | Silvia | #689 | #687 | #688 |  |
 | 2019-08-17    | small is beautiful | Comfy Room | David L. Willson | #691 | #690 | #692 |  |
 | **September** |
-| 2019-09-07    |  |  |  |  |  |  |  |
+| 2019-09-07    | SFS Method | Comfy Room | Mike Shoup |  |  |  |  |
 | 2019-09-21    | Continuous Integration with Gitlab CI | Code | Aaron Brown | #693 | #694 | #695 |  |
 | **October**   |
 | 2019-10-04    | AGHI2 OpenStack | CodeTalent | David L. Willson |  |  |  |  |
 | 2019-10-18    |  |  |  |  |  |  |
 | **November**  |
 | 2019-11-02    | Nextcloud: Share it your way |  | Mike Shoup |  |  |  |
-| 2019-11-16    | SFS Method | Comfy Room | David L. Willson |  |  |  |  |
+| 2019-11-16    |  |  |  |  |  |  |  |
 | **December**  |
 | 2019-12-07    |  |  |  |  |  |  |  |
 | 2019-12-21    |  |  |  |  |  |  |  |

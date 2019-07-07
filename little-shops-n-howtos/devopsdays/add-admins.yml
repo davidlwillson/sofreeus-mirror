@@ -1,0 +1,13 @@
+---
+- hosts:  "{{ target }}"
+  vars:
+    # admins:
+    # - name: "alicia"
+    #   ipv4: "12.34.56.78"
+    #   keyu: "https://github.com/alicia.keys"
+    # - name: "janitor"
+    #   ipv4: "12.34.56.78"
+    #   keyu: "https://gitlab.com/janitor.keys"
+  become: true
+  roles:
+  - admins

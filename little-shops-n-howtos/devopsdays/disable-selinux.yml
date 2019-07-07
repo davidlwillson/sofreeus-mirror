@@ -1,0 +1,29 @@
+---
+- hosts: "{{ target }}"
+
+  tasks:
+
+  - name: "Install libselinux-python. Totally required, AFAICT."
+    package: name=libselinux-python state=present
+
+  - name: "Disable SELinux"
+    selinux: state=disabled
+
+  - name: "Re-run setup module to get ansible_selinux facts"
+    setup:
+
+  - name: "Restart the machines where ansible_selinux.status != 'disabled'"
+    shell: sleep 2 && shutdown -r now
+    async: 1
+    poll: 0
+    ignore_errors: true
+    when: ansible_selinux.status != 'disabled'
+
+  - name: "Waiting for hosts to come back"
+    local_action:
+      wait_for host={{ inventory_hostname }}
+      delay=5
+      port=22
+      timeout=300
+      state=started
+    become: false

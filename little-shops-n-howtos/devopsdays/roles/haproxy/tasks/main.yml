@@ -1,0 +1,15 @@
+---
+- name: load haproxy package
+  package:
+    name: haproxy
+
+- name: create haproxy config file
+  copy:
+    src:  "haproxy.cfg"
+    dest: /etc/haproxy/haproxy.cfg
+
+- name: start and enable haproxy service
+  service:
+    name:    haproxy
+    state:   restarted
+    enabled: yes

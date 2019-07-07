@@ -1,0 +1,9 @@
+---
+configure:
+  stage: build
+  script:
+  - ./devopsdays/build.sh
+verify:
+  stage: test
+  script:
+  - ./devopsdays/test.sh

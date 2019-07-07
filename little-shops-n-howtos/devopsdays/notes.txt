@@ -1,0 +1,20 @@
+created a droplet
+added DNS A record for rainbow and CNAMES for colors
+on rainbow:
+    had to install python and python2-dnf manually
+
+ran add-admins playbook with default admins
+ran disable-selinux playbook
+
+on rainbow:
+    sudo dnf install docker
+    sudo groupadd docker
+    sudo usermod -aG docker dlwillson
+    sudo systemctl start docker
+    sudo systemctl enable docker
+    sudo reboot
+
+---
+on rainbow, installed gitlab-runner:
+See https://docs.gitlab.com/runner/install/linux-repository.html
+on bbb, installed gitlab-runner...

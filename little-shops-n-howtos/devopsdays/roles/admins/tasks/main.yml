@@ -1,0 +1,20 @@
+- name: Add users
+  user:
+    name:      "{{ item.name }}"
+    groups:    wheel
+    append:    yes
+  with_items:  "{{ admins }}"
+
+- name: Authorizing keys for users
+  authorized_key:
+    exclusive: yes
+    user:      "{{ item.name }}"
+    key:       "{{ item.keyu }}"
+  with_items:  "{{ admins }}"
+
+- name: Enable wheel to sudo without a password
+  lineinfile:
+    dest:      "/etc/sudoers"
+    regexp:    "^.*%wheel"
+    line:      "%wheel        ALL=(ALL)       NOPASSWD: ALL"
+    validate:  "visudo -cf %s"

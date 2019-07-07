@@ -1,0 +1,25 @@
+$ echo 'deb http://download.opensuse.org/repositories/home:/klaussfreire:/debian/xUbuntu_12.04/ /' | sudo tee /etc/apt/sources.list.d/vegastrike-data.list
+$ wget http://download.opensuse.org/repositories/home:klaussfreire:debian/xUbuntu_11.10/Release.key
+$ sudo apt-key add Release.key
+$ sudo apt-get update
+
+Vega Strike wants an oldish version of libboost that is not available in Trusty.
+
+Adding a Precise mirror gives access to older packages.
+
+This might work to fix many similar problems.
+
+These lines add a Precise mirror, and make the system aware of the packages in it.
+
+$ echo "deb http://mirrors.kernel.org/ubuntu precise main" | sudo tee /etc/apt/sources.list.d/kernel.org.precise.main.list
+$ sudo apt-get update
+
+Then, if you want to install Vega Strike, you could use this line:
+
+$ sudo apt-get install vegastrike vegastrike-data
+
+And, if you want all the blingies of it, too, you could use this:
+
+$ sudo apt-get install vegastrike-extra vegastrike-music vegastrike-speech
+
+I haven't played Vega Strike yet. I've only played "Let's install Vega Strike". I hope VegaStrike is as much fun as "Let's install Vega Strike".

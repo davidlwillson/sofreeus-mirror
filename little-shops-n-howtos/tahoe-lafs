@@ -1,0 +1,17 @@
+TahoeLAFS Notes
+===
+
+https://leastauthority.com
+https://tahoe-lafs.org/trac/tahoe-lafs
+Default client page http://localhost:3456/
+PubGrid http://stats.pingdom.com/cvvac5t8l4fv/1300061
+
+dlwillson@nb-dwillson-1:~$ cat .tahoe/tahoe.cfg
+...
+[node]
+nickname = monkeyball.1
+...
+[client]
+# Which services should this client connect to?
+introducer.furl = pb://hckqqn4vq5ggzuukfztpuu4wykwefa6d@publictestgrid.e271.net:50213,198.186.193.74:50213/introducer
+...

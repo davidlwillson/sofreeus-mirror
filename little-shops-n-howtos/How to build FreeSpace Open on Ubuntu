@@ -1,0 +1,19 @@
+Another fun learning experience provided by my flat refusal to run boring OS's. This time, as very bare notes-to-self. If you decide to try them out, let me know how they work for you. I happen to be running Ubuntu 14.04 64-bit but a similar process should work for any Debian-like.
+
+Buy and download FS2 installer from GOG. ($10)
+Don't install it.
+Download FSO installer from www.fsoinstaller.com into the same folder.
+Run the FSO installer something like this:
+$ java -jar FreeSpaceOpenInstaller.jar
+$ cd ~/FreeSpace2/
+$ ./fs2_open_3.7.2_RC4
+
+This one is cool, it tells you all the things that the program wants, that are missing.
+$ ldd ./fs2_open_3.7.2_RC4 | grep "not found"
+
+Then you install the things that are missing. In my case, I already had the 64-bit versions of these libs, but needed the 32-bit versions.
+$ sudo apt-get install libsdl1.2debian:i386
+$ sudo apt-get install libvorbisfile3:i386
+$ sudo apt-get install libjansson-dev:i386
+$ sudo apt-get install liblua5.1-0:i386
+$ ./fs2_open_3.7.2_RC4

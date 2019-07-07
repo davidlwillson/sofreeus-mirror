@@ -1,0 +1,46 @@
+#!/bin/bash -eu
+# David L. Willson, 720-333-LANS, DLWillson@TheGeek.NU
+# Source: https://zimbra.thegeek.nu/home/dlwillson@thegeek.nu/Shared/utilities/buildbbb
+# from instructions at https://code.google.com/p/bigbluebutton/wiki/InstallationUbuntu
+# Run with:
+#   if [ -e buildbbb ] ; then rm buildbbb ; fi
+#   wget --no-check-certificate https://zimbra.thegeek.nu/home/dlwillson@thegeek.nu/Shared/utilities/buildbbb
+#   bash buildbbb
+# FIXME: Some spots require root and don't sudo
+
+sudo apt-get -y install language-pack-en
+sudo update-locale LANG=en_US.UTF-8
+wget http://ubuntu.bigbluebutton.org/bigbluebutton.asc -O- | sudo apt-key add -
+echo "deb http://ubuntu.bigbluebutton.org/lucid_dev_081/ bigbluebutton-lucid main" | sudo tee /etc/apt/sources.list.d/bigbluebutton.list
+echo "deb http://us.archive.ubuntu.com/ubuntu/ lucid multiverse" | sudo tee -a /etc/apt/sources.list
+sudo apt-get update
+sudo apt-get -y dist-upgrade
+
+# This little jig is just to support RackSpace VM's
+# from "Cloud Server Ubuntu 10.04 will not boot after apt-get dist-upgrade or aptitude safe-upgrade"
+# at https://community.rackspace.com/products/f/25/t/999
+sudo apt-get -y remove startupmanager grub-pc grub-common
+sudo rm -rf /boot/grub && sudo mkdir /boot/grub
+sudo apt-get -y install grub
+update-grub
+# / This little jig
+
+wget http://bigbluebutton.googlecode.com/files/openoffice.org_1.0.4_all.deb
+sudo dpkg -i openoffice.org_1.0.4_all.deb
+sudo apt-get -y install python-software-properties
+sudo apt-add-repository ppa:libreoffice/libreoffice-4-0
+sudo apt-get update
+sudo apt-get -y install libreoffice
+wget https://bigbluebutton.googlecode.com/files/ruby1.9.2_1.9.2-p290-1_amd64.deb
+sudo dpkg -i ruby1.9.2_1.9.2-p290-1_amd64.deb 
+sudo apt-get install -y -f
+sudo update-alternatives --install /usr/bin/ruby ruby /usr/bin/ruby1.9.2 500 \
+                         --slave /usr/bin/ri ri /usr/bin/ri1.9.2 \
+                         --slave /usr/bin/irb irb /usr/bin/irb1.9.2 \
+                         --slave /usr/bin/erb erb /usr/bin/erb1.9.2 \
+                         --slave /usr/bin/rdoc rdoc /usr/bin/rdoc1.9.2
+sudo update-alternatives --install /usr/bin/gem gem /usr/bin/gem1.9.2 500
+wget --no-check-certificate https://zimbra.thegeek.nu/home/dlwillson@thegeek.nu/Shared/utilities/install-ffmpeg.sh
+bash install-ffmpeg.sh 
+sudo apt-get -y install bigbluebutton
+bbb-conf --check

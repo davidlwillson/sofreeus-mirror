@@ -1,0 +1,33 @@
+---
+- hosts:  "rainbow.sofree.us"
+  vars:
+    open_bunks: 19
+    days_to_md: 32
+    colors:
+    - red
+    - orange
+    - yellow
+    - green
+    - blue
+    - indigo
+    - violet
+  become: true
+  roles:
+  - admins
+  - haproxy
+  tasks:
+  - name: copy up graphic
+    copy:
+      src: devopsdaystechdemo.png
+      dest: /tmp/
+  - name: create pages
+    vars:
+      color: "{{ item }}"
+    template:
+      src: index.html.j2
+      dest: "/tmp/{{ item }}.index.html"
+    with_items: "{{ colors }}"
+  - name: run script to drop and re-create containers
+    script: blinking-rainbow.sh
+
+  # could make the machines and hosts entries here

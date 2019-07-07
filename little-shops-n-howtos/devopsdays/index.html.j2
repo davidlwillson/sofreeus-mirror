@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>SFS DevOps Days tech demo</title>
+    <meta http-equiv='refresh' content='3' />
+    <style>
+      .bgthingy {
+        background-color: {{ color }};
+      }
+    </style>
+  </head>
+  <body>
+    <h1>SFS DevOps Days tech demo</h1>
+    <img src='devopsdaystechdemo.png' align='right'>
+    <p><a href='http://sofree.us'>Software Freedom School</a></p>
+    <p><a href='http://www.virtual.com'>Advanced Systems Group</a></p>
+          <p>Every 3 seconds, this page is served from a different server container.</p>
+          <p>Every time new code is pushed to the project, the Docker host is reconfigured and the containers are rebuilt.</p>
+          <div class=bgthingy><p>&nbsp</p></div>
+          <p><em>This</em> page was served by the server container named "{{ color }}".</p>
+          <div class=bgthingy><p>&nbsp</p></div>
+          <h2>SFS Linux Camp by the numbers</h2>
+          <p>{{ open_bunks }} open bunks left for Linux Camp 2017!</p>
+          <p>{{ days_to_md }} days to Mother's Day!</p>
+          <p>Do you want to know <a href='http://www.sofree.us/linux-camp-2017/'>more</a><blink>?</blink></p>
+          <h2>Moar fun</h2>
+          <p><a href='https://gitlab.com/sofreeus/sofreeus/pipelines'>This Project's Pipeline</a></p>
+<p>parts in this tech demo:
+<ul>
+  <li>haproxy and Docker on Fedora Linux (load-balancer)</li>
+  <li>Digital Ocean (cloud computing)</li>
+  <li>GitLab-CI (continuous integration / testing)</li>
+  <li>Ansible (balancer/host machine config)</li>
+  <li>shell (server/balancer final config)</li>
+  <li>HTML+CSS (web page)</li>
+  <li>Apache on Debian (webserver)</li>
+  <li>Markers on Android (graphics)</li>
+  <li><a href='https://gitlab.com/sofreeus/sofreeus/tree/master/devopsdays'>source code</a></li>
+</ul>
+</p>
+
+  </body>
+</html>

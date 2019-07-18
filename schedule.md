@@ -18,7 +18,7 @@ See also: [The Past](schedule-past.md)
 | 2019-09-21    | Continuous Integration with Gitlab CI | Code | Aaron Brown | #693 | #694 | #695 |  |
 | **October**   |
 | 2019-10-04    | AGHI2 OpenStack | CodeTalent | David L. Willson |  |  |  |  |
-| 2019-10-18    |  Intro to DevOps (3rd run) | CodeTalent | Aaron, Anthony, (Silvia?) |  | #700 | |  |
+| 2019-10-18    |  Intro to DevOps (3rd run) | CodeTalent | Aaron, Anthony, Silvia |  | #700 | |  |
 | **November**  |
 | 2019-11-02    | Nextcloud: Share it your way |  | Mike Shoup |  |  |  |
 | 2019-11-16    |  |  |  |  |  |  |  |

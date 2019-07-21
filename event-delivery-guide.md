@@ -59,7 +59,7 @@ FOODIE:
 VENUE: gives their rap
 
 COORDINATOR:
-- Use the wrapper-slides to give the SFS Rap.
+- Use the wrapper-slides to give the SFS Rap or just read the Rap.
 - Have students sign-in and join Mattermost now.
 - Introduce TEACHER and topic.
 - If there are more than 6 participant learners, volunteer to assist and ask for volunteers until the ratio of participants/learners to leaders is 6 or less.

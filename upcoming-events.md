@@ -11,25 +11,71 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 ## NGINX OSS and MORE with Silvia Briscoe
 
-Instructor: Silvia Briscoe
-Time: 9:00 AM to 1:00 PM
-Date: Saturday, August 3, 2019
-Location: Code Talent
-3412 Blake St · Denver, CO
-Price: $32 or PWYC (will normally be $128)
+Practice using NGINX as a server, proxy, WAF, and (maybe) API Manager. See NGINX as an Ingress controller for Kubernetes.
 
-[RSVP Here](https://www.meetup.com/sofreeus/events/262736782/)
+    Instructor: Silvia Briscoe
+    Time: 9:00 AM to 1:00 PM
+    Date: Saturday, August 3, 2019
+    Location: Code Talent
+    3412 Blake St · Denver, CO
+    Price: $32 or PWYC (will normally be $128)
+
+[RSVP](https://www.meetup.com/sofreeus/events/262736782/)
+
+## Small Is Beautiful
+
+Learn a variety of things in quick session of a single lesson: Simple Truth (JSH), RegEx Basics (DLW), DNS 4 High Availability (CFedde), two more teachers needed
+
+    Instructor: many
+    Time: 9:00 AM to 1:00 PM
+    Date: Saturday, August 17, 2019
+    Location: The Comfy Room
+    4237 W. Grand Ave, 80123
+    Price: $4, $4K, or PWYC
+
+[RSVP](https://www.meetup.com/sofreeus/events/262739405/)
+
+## SFS Method with Mike Shoup
+
+Learn how SFS teachers deliver hands-on technical training that sucks less.
+
+    Instructor: Mike Shoup
+    Time: 9:00 AM to 1:00 PM
+    Date: Saturday, September 7, 2019
+    Location: The Comfy Room
+    4237 W. Grand Ave, 80123
+    Price: TBD
+
+## Continuous Integration with Aaron Brown
+
+Smaller, faster, better, safer with CI, featuring GitLab CI.
+
+    Instructor: Aaron Brown
+    Time: 9:00 AM to 1:00 PM
+    Date: Saturday, September 21, 2019
+    Location: Code Talent
+    3412 Blake St · Denver, CO
+    Price: TBD
+
+
+## OpenStack: A Gentle, Hands-on Introduction
+
+Build stacks in public/private/hybrid on Free Software clouds with OpenStack.
+
+    Instructor: David L. Willson
+    Time: 9:00 AM to 1:00 PM
+    Date: Saturday, October 5, 2019
+    Location: Code Talent
+    3412 Blake St · Denver, CO
+    Price: TBD
+
+## Intro to DevOps
+
+We're plotting, and planning, and grooving to the music...
 
 ---
 
-## Events In-planning
-
-You can't RSVP to these yet.
-
-* Another Intro to DevOps class - TBD
-
-If you don't see what you want, make a wish! The captains@sofree.us love requests!
-
+If you don't see what you want, send your wish to captains@sofree.us! We definitely take requests!
 
 ## Reminders
 

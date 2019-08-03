@@ -55,7 +55,7 @@ Smaller, faster, better, safer with CI, featuring GitLab CI.
     Date: Saturday, September 21, 2019
     Location: Code Talent
     3412 Blake St · Denver, CO
-    Price: TBD
+    Price: $128
 
 
 ## OpenStack: A Gentle, Hands-on Introduction

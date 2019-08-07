@@ -18,8 +18,9 @@ SFS no longer provides server machines. Machine-like server containers are easy 
 * Network: NAT (default)
 * Username: osadmin
 * Password: the standard one that starts with 'Fre' and ends with '-13'
+* Apply all available updates
 * Install the guest extensions
-* Enable automatic screen resolution changes
+* Ensure that the guest's screen-resolution updates when the window is resized
 * Enable copy and paste
 * Export the machine: FIXME vboxmanage what?
 * Import and test the machine on at least one other computer. Ensure that:

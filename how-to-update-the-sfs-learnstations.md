@@ -22,8 +22,20 @@ SFS no longer provides server machines. Machine-like server containers are easy 
 * Install the guest extensions
 * Ensure that the guest's screen-resolution updates when the window is resized
 * Enable copy and paste
-* Export the machine: FIXME vboxmanage what?
+* Export the machine:
+```bash
+VBoxManage list vms
+name=SFS-LearnStation-Ubuntu-Disco
+VBoxManage export $name -o $name.ova --vsys 0 --vendor "Software Freedom School" --vendorurl www.sofree.us --version $( date --iso )
+# Upload the exported file to Nextcloud
+mv $name.ova ~/Nextcloud/SFS-Captains-Booty/VBoxVMs/
+# or do it in the browser or whatever
+```
+FIXME vboxmanage what?
 * Import and test the machine on at least one other computer. Ensure that:
     - [ ] the Internet is browse-able
     - [ ] screen resolution automatically updates on window re-size
     - [ ] copy and paste works
+
+
+--captains@sofree.us

@@ -31,7 +31,6 @@ VBoxManage export $name -o $name.ova --vsys 0 --vendor "Software Freedom School"
 mv $name.ova ~/Nextcloud/SFS-Captains-Booty/VBoxVMs/
 # or do it in the browser or whatever
 ```
-FIXME vboxmanage what?
 * Import and test the machine on at least one other computer. Ensure that:
     - [ ] the Internet is browse-able
     - [ ] screen resolution automatically updates on window re-size

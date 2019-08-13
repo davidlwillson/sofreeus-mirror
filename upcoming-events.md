@@ -4,47 +4,41 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 
 ## Highlights
-- It looks like we'll be running Intro to DevOps again in late October, let us know if interested and if you have any questions, we've received quite a bit of great feedback on it.
+- First run of NGINX ran with Silvia and her assistant Shannon the beginning of the month.  If you weren't able to amke it... as for a second run! :)
+- We're running Intro to DevOps again! October 19th @ CODE!  This class is AMAZING Ya'll!  Need more information?  Check out the Meetup page (https://www.meetup.com/sofreeus/events/263802634/)
+- Hacking hour are THIS SATURDAY in the COMFY ROOM this weekend!  Join us at SFS's HQ.  (Small is Beautiful didn't have a strong enough turn out so we planned something else!)
+- Have YOU been to GLUG yet?  What IS GLUG you are thinking??  Golden Linux Users Group that's what!  David just couldn't resist heading to Golded, drinking delicious beers (usually at New Terrain) and talking about Linux-y things!  
+- Just misssed this month's BUT in September ... 2nd Monday we'll start gathering at 6:30pm at New Terrain Brewing Company.  Hope to see you there (for FUN can you believe it?!)
 - We do on-site, custom classes. Just ask Captains@SoFree.Us.
 
 ---
 
-## NGINX OSS and MORE with Silvia Briscoe
+## Hacker Hours @ the COMFY ROOM! 
+The Software Freedom School is hosting Hacking Hours this weekend!
 
-Practice using NGINX as a server, proxy, WAF, and (maybe) API Manager. See NGINX as an Ingress controller for Kubernetes.
+We get together from time to time just to work on things together. Bring your interesting problem, or help with one of ours. Let's hack.
 
-    Instructor: Silvia Briscoe
-    Time: 9:00 AM to 1:00 PM
-    Date: Saturday, August 3, 2019
-    Location: Code Talent
-    3412 Blake St · Denver, CO
-    Price: $32 or PWYC (will normally be $128)
-
-[RSVP](https://www.meetup.com/sofreeus/events/262736782/)
-
-## Small Is Beautiful
-
-Learn a variety of things in quick session of a single lesson: Simple Truth (JSH), RegEx Basics (DLW), DNS 4 High Availability (CFedde), two more teachers needed
-
-    Instructor: many
+    Instructor: none
     Time: 9:00 AM to 1:00 PM
     Date: Saturday, August 17, 2019
     Location: The Comfy Room
     4237 W. Grand Ave, 80123
     Price: $4, $4K, or PWYC
 
-[RSVP](https://www.meetup.com/sofreeus/events/262739405/)
+[RSVP](https://www.meetup.com/sofreeus/events/263969040/)
 
 ## SFS Method with Mike Shoup
 
 Learn how SFS teachers deliver hands-on technical training that sucks less.
 
     Instructor: Mike Shoup
-    Time: 9:00 AM to 1:00 PM
+    Time: 8:30 AM to 1:00 PM
     Date: Saturday, September 7, 2019
-    Location: The Comfy Room
-    4237 W. Grand Ave, 80123
-    Price: TBD
+    Location: Code Talent
+    3412 Blake St · Denver, CO
+    Price: $32 or PWYC
+    
+[RSVP] (https://www.meetup.com/sofreeus/events/263974472/?isFirstPublish=true)
 
 ## Continuous Integration with Aaron Brown
 
@@ -55,10 +49,12 @@ Smaller, faster, better, safer with CI, featuring GitLab CI.
     Date: Saturday, September 21, 2019
     Location: Code Talent
     3412 Blake St · Denver, CO
-    Price: $128
+    Price: $128 or PWYC
+    
+[RSVP] (https://www.meetup.com/sofreeus/events/263702391/)
 
 
-## OpenStack: A Gentle, Hands-on Introduction
+## OpenStack: A Gentle, Hands-on Introduction with David L. Willson
 
 Build stacks in public/private/hybrid on Free Software clouds with OpenStack.
 
@@ -69,10 +65,19 @@ Build stacks in public/private/hybrid on Free Software clouds with OpenStack.
     3412 Blake St · Denver, CO
     Price: TBD
 
-## Intro to DevOps
+## Intro to DevOps with Aaron Brown, Anthony Sayre, and Silvia Briscoe
 
-We're plotting, and planning, and grooving to the music...
+We'll use Linux, Bash, Git, Gitlab, F5/Nginx Docker image, and AWS to create minimum viable DevOps continuous integration pipelines on our laptops. 
+This class is based on content created by Aaron Brown, systems engineer and VP of DevOps at Flowhub.com.
 
+    Instructor: Aaron Brown, Anthony Sayre, and Silvia Briscoe
+    Time: 9:00 AM to 5:00 PM
+    Date: Saturday, October 19, 2019
+    Location: Code Talent
+    3412 Blake St · Denver, CO
+    Price: $256 or PWYC
+
+[RSVP] (https://www.meetup.com/sofreeus/events/263802634/)
 ---
 
 If you don't see what you want, send your wish to captains@sofree.us! We definitely take requests!

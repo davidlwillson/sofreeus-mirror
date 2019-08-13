@@ -4,9 +4,9 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 
 ## Highlights
-- First run of NGINX ran with Silvia and her assistant Shannon the beginning of the month.  If you weren't able to amke it... as for a second run! :)
-- We're running Intro to DevOps again! October 19th @ CODE!  This class is AMAZING Ya'll!  Need more information?  Check out the Meetup page (https://www.meetup.com/sofreeus/events/263802634/)
-- Hacking hour are THIS SATURDAY in the COMFY ROOM this weekend!  Join us at SFS's HQ.  (Small is Beautiful didn't have a strong enough turn out so we planned something else!)
+- First run of NGINX ran with Silvia and her assistant Shannon the beginning of the month.  If you weren't able to make it... ask for a second run! :)
+- We're offering Intro to DevOps again! October 19th @ CODE!  This class is AMAZING ya'll!  Need more information?  Check out the Meetup page (https://www.meetup.com/sofreeus/events/263802634/)
+- Hacking hours are THIS SATURDAY in the COMFY ROOM this weekend!  Join us at SFS's HQ.  (Small is Beautiful didn't have a strong enough turn out so we planned something else!)
 - Have YOU been to GLUG yet?  What IS GLUG you are thinking??  Golden Linux Users Group that's what!  David just couldn't resist heading to Golded, drinking delicious beers (usually at New Terrain) and talking about Linux-y things!  
 - Just misssed this month's BUT in September ... 2nd Monday we'll start gathering at 6:30pm at New Terrain Brewing Company.  Hope to see you there (for FUN can you believe it?!)
 - We do on-site, custom classes. Just ask Captains@SoFree.Us.
@@ -38,7 +38,7 @@ Learn how SFS teachers deliver hands-on technical training that sucks less.
     3412 Blake St · Denver, CO
     Price: $32 or PWYC
     
-[RSVP] (https://www.meetup.com/sofreeus/events/263974472/?isFirstPublish=true)
+[RSVP] (https://www.meetup.com/sofreeus/events/263974472/)
 
 ## Continuous Integration with Aaron Brown
 

@@ -38,3 +38,7 @@ mv $name.ova ~/Nextcloud/SFS-Captains-Booty/VBoxVMs/
 
 
 --captains@sofree.us
+
+notes:
+- I have switched to PS/2 mouse and disabled audio and USB. I found that USB 2.0 was enabled, which was not needed and was stopping a fresh import from starting on hosts without the proprietary host extensions. --DLW
+- I have failed so far to load guest extensions on Fedora 30. --DLW

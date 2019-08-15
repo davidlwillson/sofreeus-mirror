@@ -34,7 +34,7 @@ mv $name.ova ~/Nextcloud/SFS-Captains-Booty/VBoxVMs/
 * Import and test the machine on at least one other computer. Ensure that:
     - [ ] the Internet is browse-able
     - [ ] screen resolution automatically updates on window re-size
-    - [ ] copy and paste works
+    - [ ] copy and paste from host to guest works
 
 
 --captains@sofree.us

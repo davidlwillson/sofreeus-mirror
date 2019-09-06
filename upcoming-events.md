@@ -4,28 +4,14 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 
 ## Highlights
-- First run of NGINX ran with Silvia and her assistant Shannon the beginning of the month.  If you weren't able to make it... ask for a second run! :)
+Hey SFSers, sorry for the gap in class announcements. Please check out the exciting new classes we have on tap:
+- TOMORROW, TOMORROW, TOMORROW Come Learn how to make your demos and classes sucks less. Learn the SFS Method and how you can apply it to teach technical skills to a diverse audience.
 - We're offering Intro to DevOps again! October 19th @ CODE!  This class is AMAZING ya'll!  Need more information?  Check out the Meetup page (https://www.meetup.com/sofreeus/events/263802634/)
-- Hacking hours are THIS SATURDAY in the COMFY ROOM this weekend!  Join us at SFS's HQ.  (Small is Beautiful didn't have a strong enough turn out so we planned something else!)
 - Have YOU been to GLUG yet?  What IS GLUG you are thinking??  Golden Linux Users Group that's what!  David just couldn't resist heading to Golded, drinking delicious beers (usually at New Terrain) and talking about Linux-y things!  
-- Just misssed this month's BUT in September ... 2nd Monday we'll start gathering at 6:30pm at New Terrain Brewing Company.  Hope to see you there (for FUN can you believe it?!)
+- The 2nd Monday in September (9th) we'll start gathering at 6:30pm at New Terrain Brewing Company.  Hope to see you there (for FUN can you believe it?!)
 - We do on-site, custom classes. Just ask Captains@SoFree.Us.
 
 ---
-
-## Hacker Hours @ the COMFY ROOM! 
-The Software Freedom School is hosting Hacking Hours this weekend!
-
-We get together from time to time just to work on things together. Bring your interesting problem, or help with one of ours. Let's hack.
-
-    Instructor: none
-    Time: 9:00 AM to 1:00 PM
-    Date: Saturday, August 17, 2019
-    Location: The Comfy Room
-    4237 W. Grand Ave, 80123
-    Price: $4, $4K, or PWYC
-
-[RSVP](https://www.meetup.com/sofreeus/events/263969040/)
 
 ## SFS Method with Mike Shoup
 

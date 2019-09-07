@@ -1,9 +1,5 @@
 # Account an SFS event
 
-TODO:
-- Put this in chronological order. Anything that must be done constantly or repeatedly, rather than once in the value-stream, should go in a special top-level section name 'daily' or 'weekly' or whatever and maybe doesn't need a check-box.
-- Make the directions as simple as possible, so any future assistants will have an easier time following them.
-
 BEFORE CLASS:
 * [ ] Add current class to the [sign in](https://docs.google.com/forms/d/1OPw-wTdy61ubIe2wb8CJQ7iwJjOkWk2e3bYVdtRwtVU/edit) and [feedback](https://docs.google.com/forms/d/10_OS7AVOMO5ZehhkbOqBETT5Ou98N93prJH9CtwE8C8/edit) page on Google drive 
 * [ ] If there is a pre-filled link prior to class use this (should be provided by the person that did this OR will be on SFS's meetup)
@@ -24,10 +20,10 @@ END OF CLASS:
 * [ ] Add new students to [sofree email list](http://lists.sofree.us/cgi-bin/mailman/admin/sfs/)
 * [ ] Invoice 3rd parties (if applicable)
 * [ ] Record A/R (all invoices get paid out as cash to the people below)
-* [ ] Payout teacher (if applicable)
-* [ ] Payout Upstream (if applicable) - DETERMINED BY TEACHER 
-* [ ] Payout Location (if applicable and not part of expenses)
-* [ ] Payout Caterer (if applicalbe and not part of expeses)
-* [ ] Payout VIP (if applicable)
+* [ ] Payout teacher (if applicable)  PAYPAL, CRYPTO, CASH, ECHECK
+* [ ] Payout Upstream (if applicable) - DETERMINED BY TEACHER PAYPAL, CRYPTO, CASH, ECHECK
+* [ ] Payout Location (if applicable and not part of expenses) PAYPAL, CRYPTO, CASH, ECHECK
+* [ ] Payout Caterer (if applicable) PAYPAL, CRYPTO, CASH, ECHECK
+* [ ] Payout VIP (if applicable) PAYPAL, CRYPTO, CASH, ECHECK
 * [ ] Complete [financials](https://docs.google.com/spreadsheets/d/1lFKpt9JST8btsBOvhEtfzDzlBeuB-43s0GO3EvjE2-I/edit#gid=0) spreadsheet 
 * [ ] Send email to Board Members with financials

@@ -6,3 +6,4 @@
 * [ ] ? Network stuph: switch, cables, wireless
 * [ ] Projector / Big Screen
 * [ ] ? Whiteboard
+* [ ] ? Duct tape, zip ties, tools

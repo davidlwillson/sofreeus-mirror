@@ -4,8 +4,10 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 
 ## Highlights
+* Coming up tomorrow morning, Provisioning Cloud Infrastructure On OpenStack!, Check out the link below
 
 * We're offering Intro to DevOps again! October 19th @ CODE!  This class is AMAZING ya'll!  Need more information?  Check out the Meetup page (https://www.meetup.com/sofreeus/events/263802634/)
+
 * We do on-site, custom classes. Just ask Captains@SoFree.Us.
 
 ---
@@ -20,12 +22,12 @@ Build stacks in public/private/hybrid on Free Software clouds with OpenStack.
     Location: Code Talent
     3412 Blake St · Denver, CO
     Price: $64 or PWYC
-    
+
 [RSVP](https://www.meetup.com/sofreeus/events/264738399/)
 
 ## Intro to DevOps with Aaron Brown, Anthony Sayre, and Silvia Briscoe
 
-We'll use Linux, Bash, Git, Gitlab, F5/Nginx Docker image, and AWS to create minimum viable DevOps continuous integration pipelines on our laptops. 
+We'll use Linux, Bash, Git, Gitlab, F5/Nginx Docker image, and AWS to create minimum viable DevOps continuous integration pipelines on our laptops.
 This class is based on content created by Aaron Brown, systems engineer and VP of DevOps at Flowhub.com.
 
     Instructor: Aaron Brown, Anthony Sayre, and Silvia Briscoe

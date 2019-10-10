@@ -21,3 +21,15 @@ See also: [The Future](schedule.md)
 | 2019-05-04    | GitLab | CodeTalent | David L. Willson |  | [Done](https://www.meetup.com/sofreeus/events/257902517) | #622 |  |
 | 2019-05-18    | Intro to DevOps |  | Anthony, Kim, Silvia, Aaron |  | #626 |  |  |
 | 2019-05-29    | SFS Method | Comfy Room & Zoom | David L. Willson | 6pm to 10pm | #624 |  |  |
+| **June**      |
+| 2019-06-01    | Hacking Hours (informal) |  |  |  |  |  |  |
+| 2019-06-15    | Ansible 101 |  | Alex Wise | #647 | #630 | oops |  |
+| **July**      |
+| 2019-07-06    | Penetrations and Remediations | Code | Mike Harris |  | [done](https://www.meetup.com/sofreeus/events/261632782/) | [done](https://twitter.com/SFS303/status/1145029127390552071) |  |
+| 2019-07-20    | Prometheus | Code | Mike Shoup |  | [done](https://www.meetup.com/sofreeus/events/260918433/) | [done](https://twitter.com/shouptech/status/1142507095104737280) |  |
+| **August**    |
+| 2019-08-03    | nginx | Code | Silvia | #689 | #687 | #688 |  |
+| 2019-08-17    | small is beautiful | Comfy Room | David L. Willson | #691 | #690 | #692 |  |
+| **September** |
+| 2019-09-07    | SFS Method | Comfy Room | Mike Shoup and DLW | #728 | #729 | #730 |  |
+| 2019-09-21    | Continuous Integration with Gitlab CI | Code | Aaron Brown | #693 | #694 | #695 |  |

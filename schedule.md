@@ -11,12 +11,12 @@ See also: [The Past](schedule-past.md)
 | 2019-11-02    |  |  |  |  |  |  |  |
 | 2019-11-16    | Nextcloud: Share it your way | CodeTalent | Mike Shoup | #767 | #765 | #766 | #768 |
 | **December**  |
-| 2019-12-07    | AGHI2 ProxMox | TRR and DLW |  |  |  |  |  |
+| 2019-12-07    | AGHI2 ProxMox | Comfy Room | TRR and DLW |  |  |  |  |
 | 2019-12-21    |  |  |  |  |  |  |  |
 | 2019-12-28    | Linus' Birthday |  |  |  |  |  |  |
 | **January**   |
 | 2020-01-04    |  |  |  |  |  |  |  |
-| 2020-01-13    | LFCS SG | Garheade and DLW |  |  |  |  |  |
+| 2020-01-13    | LFCS SG | Comfy Room & Zoom | Garheade and DLW |  |  |  |  |
 | 2020-01-18    |  |  |  |  |  |  |  |
 | 2019-12-28    | Linus' Birthday |  |  |  |  |  |  |
 | **February**  |

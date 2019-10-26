@@ -1,3 +1,5 @@
+// shamelessly stolen from the wonderful https://gitlab.com/yo/markdown-to-html
+
 var showdown  = require('showdown');
 var fs = require('fs');
 let filename = "sfs-class-catalog.md"

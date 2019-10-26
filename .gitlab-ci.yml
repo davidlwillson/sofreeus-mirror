@@ -15,10 +15,13 @@ class_catalog_to_pages:
 
   script:
     # install node
+    - mkdir -p converter/public
     - apt install curl
     - curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
     - sudo apt install nodejs
     - node -v
     - npm -v
     # convert class catalog to html
+    - cp sfs-class-catalog.md converter/sfs-class-catalog.md
+    - node converter/convert-catalog.js Class-Catalog
     # push class catalog to gitlab pages.

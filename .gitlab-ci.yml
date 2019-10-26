@@ -25,3 +25,8 @@ class_catalog_to_pages:
     - cp sfs-class-catalog.md converter/sfs-class-catalog.md
     - node converter/convert-catalog.js Class-Catalog
     # push class catalog to gitlab pages.
+#    - git fetch https://gitlab.com/sofreeus/sofreeus.gitlab.io.git
+#    - cp converter/public/sfs-class-catalog.html converter/public/sofreeus.gitlab.io/sfs-class-catalog.html
+#    - cd converter/public/sofreeus.gitlab.io
+#    - git add . && git commit -m "automated push from gitlab.com/sofreeus/sofreeus"
+#    - git push

@@ -4,40 +4,75 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 
 ## Highlights
-* Coming up tomorrow morning, Provisioning Cloud Infrastructure On OpenStack!, Check out the link below
 
-* We're offering Intro to DevOps again! October 19th @ CODE!  This class is AMAZING ya'll!  Need more information?  Check out the Meetup page (https://www.meetup.com/sofreeus/events/263802634/)
-
-* We do on-site, custom classes. Just ask Captains@SoFree.Us.
+* This Saturday, for SFFS November, we have Hacking Hours. Come code with your cronies.
+* Saturday after that, Linux Camp: Grinder Edition. Embrace the sysadmin suck.
+* Saturday after *that*, Mike Shoup's awesome Nextcloud class. Get off the Google, guys and gals.
 
 ---
 
-## Provisioning Cloud Infrastructure On OpenStack: A Gentle, Hands-on Introduction with Chris Fedde and David L. Willson
+## Hacking Hours
 
-Build stacks in public/private/hybrid on Free Software clouds with OpenStack.
+Coding with your cronies. Hacking with your homies. Lay down your smack and have a nice hack.
 
-    Instructor: Chris Fedde and David L. Willson
+    Instructor: "No king, no king, lalalala!"
     Time: 9:00 AM to 1:00 PM
-    Date: Saturday, October 5, 2019
+    Date: Saturday, November 2, 2019
+    Location: The Comfy Room
+    4237 W Grand Ave, Littleton, CO
+    Price: $3.14 or PWYC
+
+[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/265937991/)
+
+## Linux Camp: Grinder Edition
+
+Can you and your friends finish the Linux Camp labs in two days? Sometimes, the dragon wins...
+
+    Instructor: GAR and DLW
+    Start: 9AM Saturday, Nov 9
+    Finis: 6PM
+    Location: Peterson's
+    8740 Lucent Blvd, Highlands Ranch, CO 80129
+    Price: $512
+
+[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/265827126/)
+
+## Build your next cloud file-server with Nextcloud
+
+De-centralize, federate, and share.
+
+    Instructor: Mike Shoup
+    Time: 9:00 AM to 1:00 PM
+    Date: Saturday, November 16, 2019
     Location: Code Talent
     3412 Blake St · Denver, CO
     Price: $64 or PWYC
 
-[RSVP](https://www.meetup.com/sofreeus/events/264738399/)
+[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/265853852/)
 
-## Intro to DevOps with Aaron Brown, Anthony Sayre, and Silvia Briscoe
+## The ProxMox Virtualization Environment, A Gentle Hands-on Intro
 
-We'll use Linux, Bash, Git, Gitlab, F5/Nginx Docker image, and AWS to create minimum viable DevOps continuous integration pipelines on our laptops.
-This class is based on content created by Aaron Brown, systems engineer and VP of DevOps at Flowhub.com.
+PMox is to the data center as VBox is to the desktop. Chuck your ESX and vanilla KVM; ProxMox *rocks*.
 
-    Instructor: Aaron Brown, Anthony Sayre, and Silvia Briscoe
-    Time: 9:00 AM to 5:00 PM
-    Date: Saturday, October 19, 2019
-    Location: Code Talent
-    3412 Blake St · Denver, CO
-    Price: $256 or PWYC
+    Instructors: Troy Ridgley and David Willson
+    Time: 9:00 AM to 1:00 PM
+    Date: Saturday, November 16, 2019
+    Location: TBD
+    Price: TBD or PWYC
 
-[RSVP](https://www.meetup.com/sofreeus/events/263802634/)
+WOULD YOU LIKE TO KNOW **MORE?** link deactivated, use email
+
+## Linux Sysadmin Night School: LFCS CSG
+
+Eight two-hour live sessions ought to do it.
+
+    Instructors: GAR and DLW
+    Start: 7PM-9PM, Monday, January 13th, and every Monday for 8
+    Location: The Comfy Room and Zoom
+    4237 W Grand Ave, Littleton, CO
+    Price: $256 or PWYC (CSG tuition also applies to Linux Camp 2020*)
+
+[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/265940729/)
 
 ---
 
@@ -46,6 +81,6 @@ If you don't see what you want, send your wish to captains@sofree.us! We definit
 ## Reminders
 
 * We are lifelong learners. Please share learning opportunities, even if they're not produced by SFS.
-* We are friends. You can post just about anything, but if it doesn't have to do with learning free-libre software, stick an "OT:" in front of it.
-* We are professionals (when we must be). Please post your help wanted and job wanted here.
+* We are friends. You can post just about anything to the [ML](http://lists.sofree.us/cgi-bin/mailman/listinfo/sfs). If it's not free-libre, put "OT:" in the subject.
+* We are professionals. Your "help wanted" and "job wanted" posts are welcome.
 * Come hang out with us in [Mattermost](https://mm.sofree.us/sfs-team/channels/town-square)!

@@ -17,6 +17,7 @@ See also: [The Past](schedule-past.md)
 | **January**   |
 | 2020-01-04    |  |  |  |  |  |  |  |
 | 2020-01-13    | LFCS SG | Comfy Room & Zoom | Garheade and DLW |  |  |  |  |
+| 2020-01-17    | CU I2DO | CU | Anthony & Aaron |  |  |  |  |
 | 2020-01-18    |  |  |  |  |  |  |  |
 | 2019-12-28    | Linus' Birthday |  |  |  |  |  |  |
 | **February**  |

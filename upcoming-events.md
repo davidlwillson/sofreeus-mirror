@@ -5,50 +5,12 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 ## Highlights
 
-* This Saturday, for SFFS November, we have Hacking Hours. Come code with your cronies.
-* Saturday after that, Linux Camp: Grinder Edition. Embrace the sysadmin suck.
-* Saturday after *that*, Mike Shoup's awesome Nextcloud class. Get off the Google, guys and gals.
-
+* Linux Camp: Grinder Edition was grueling!  But David, Gary, and Chris made it through!  Thanks to Gary for helping us make (peniding) needed modifications to our materials!
+* Happy (almost) Thanksgiving!  May you have a lovely celebration and family quality time if your logisics allow.
+* Join SFS for a Christmas/Holiday celebration at our HQ on December 21st from 2pm - 6pm. If you attended any classes in 2019 you'll receive an invite.  If you want to be invited send Heather an email hlwillson@sofree.us
 ---
 
-## Hacking Hours
-
-Coding with your cronies. Hacking with your homies. Lay down your smack and have a nice hack.
-
-    Instructor: "No king, no king, lalalala!"
-    Time: 9:00 AM to 1:00 PM
-    Date: Saturday, November 2, 2019
-    Location: The Comfy Room
-    4237 W Grand Ave, Littleton, CO
-    Price: $3.14 or PWYC
-
-[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/265937991/)
-
-## Linux Camp: Grinder Edition
-
-Can you and your friends finish the Linux Camp labs in two days? Sometimes, the dragon wins...
-
-    Instructor: GAR and DLW
-    Start: 9AM Saturday, Nov 9
-    Finis: 6PM
-    Location: Peterson's
-    8740 Lucent Blvd, Highlands Ranch, CO 80129
-    Price: $512
-
-[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/265827126/)
-
-## Build your next cloud file-server with Nextcloud
-
-De-centralize, federate, and share.
-
-    Instructor: Mike Shoup
-    Time: 9:00 AM to 1:00 PM
-    Date: Saturday, November 16, 2019
-    Location: Code Talent
-    3412 Blake St · Denver, CO
-    Price: $64 or PWYC
-
-[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/265853852/)
+# UPCOMING CLASSES
 
 ## The ProxMox Virtualization Environment, A Gentle Hands-on Intro
 

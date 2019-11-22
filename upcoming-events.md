@@ -21,8 +21,7 @@ PMox is to the data center as VBox is to the desktop. Chuck your ESX and vanilla
     Date: Saturday, November 16, 2019
     Location: TBD
     Price: TBD or PWYC
-
-WOULD YOU LIKE TO KNOW **MORE?** link deactivated, use email
+[WOULD YOU LIKE TO KNOW **MORE?**] (https://www.meetup.com/sofreeus/events/266395415/)
 
 ## Linux Sysadmin Night School: LFCS CSG
 

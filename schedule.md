@@ -26,7 +26,7 @@ See also: [The Past](schedule-past.md)
 | **March**     |
 | 2020-03-07    |  |  |  |  |  |  |  |
 | 2020-03-16    | RMS' Birthday |  |  |  |  |  |  |
-| 2020-03-21    |  |  |  |  |  |  |  |
+| 2020-03-21    | Intro to Docker | CodeTalent | tbd | #808 | #807 | #809 | #810 |
 | **April**     |
 | 2020-04-04    |  |  |  |  |  |  |  |
 | 2020-04-18    |  |  |  |  |  |  |  |

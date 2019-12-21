@@ -12,11 +12,11 @@ See also: [The Past](schedule-past.md)
 | 2019-11-16    | Nextcloud: Share it your way | CodeTalent | Mike Shoup | #767 | #765 | #766 | #768 |
 | **December**  |
 | 2019-12-07    | AGHI2 ProxMox | Comfy Room | TRR and DLW |  |  |  |  |
-| 2019-12-21    |  |  |  |  |  |  |  |
+| 2019-12-21    | Holiday Open House | Comfy Room | Heather | NA | NA | NA | NA |
 | 2019-12-28    | Linus' Birthday |  |  |  |  |  |  |
 | **January**   |
-| 2020-01-04    |  |  |  |  |  |  |  |
-| 2020-01-13    | LFCS SG | Comfy Room & Zoom | Garheade and DLW |  |  |  |  |
+| 2020-01-04    | SIB | Code | Ed, DLW | #830 | #803 | #831 | #832 |
+| 2020-01-13    | LFCS SG | Comfy Room & Zoom | Garheade and DLW | #772 | https://www.meetup.com/sofreeus/events/brlxlrybccbrb/ | #779 | #833 |
 | 2020-01-17    | CU I2DO | CU | Anthony & Aaron |  |  |  |  |
 | 2020-01-18    |  |  |  |  |  |  |  |
 | 2019-12-28    | Linus' Birthday |  |  |  |  |  |  |

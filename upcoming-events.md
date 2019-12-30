@@ -5,9 +5,11 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 ## Highlights
 
-* Linux Camp: Grinder Edition was grueling!  But David, Gary, and Chris made it through!  Thanks to Gary for helping us make (peniding) needed modifications to our materials!
-* Happy (almost) Thanksgiving!  May you have a lovely celebration and family quality time if your logisics allow.
-* Join SFS for a Christmas/Holiday celebration at our HQ on December 21st from 2pm - 6pm. If you attended any classes in 2019 you'll receive an invite.  If you want to be invited send Heather an email hlwillson@sofree.us
+* Um, the holidays happened. Are happening. Basically, holidays don't stop 'til like... mid-January I think.
+* Remember to tip your server.
+* No seriously, Boxing Day is a thing. Give your mail-carrier, the guys (probably) who take your trash from the curb, and so on, a little gift. Cash works, but Uncle Ray gives beer.
+  all the folks that make less than you and make *your* life better. Gift 'em, or tip 'em. Seriously. And, maybe a nice card with "thanks" inside.
+
 ---
 
 # UPCOMING CLASSES

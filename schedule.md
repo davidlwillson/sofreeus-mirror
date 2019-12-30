@@ -5,7 +5,7 @@ See also: [The Past](schedule-past.md)
 | Date          | Subject   | Location     | Teacher           | Prep | Post | Promote | Payout |
 | ------------- | --------- | ------------ | ----------------- | ---- | ---- | ------- | ------ |
 | **January**   |
-| 2020-01-04    | SIB | Code | Ed, DLW | #830 | #803 | #831 | #832 |
+| 2020-01-04    | SIB | Code | Ed, DLW | #830 | https://www.meetup.com/sofreeus/events/267112354/ | #831 | #832 |
 | 2020-01-13    | LFCS SG | Comfy Room & Zoom | Garheade and DLW | #772 | https://www.meetup.com/sofreeus/events/brlxlrybccbrb/ | #779 | #833 |
 | 2020-01-17    | CU I2DO | CU | Anthony & Aaron |  |  |  |  |
 | 2020-01-18    |  |  |  |  |  |  |  |

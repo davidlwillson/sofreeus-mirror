@@ -12,26 +12,27 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 # UPCOMING CLASSES
 
-## The ProxMox Virtualization Environment, A Gentle Hands-on Intro
+## SMALL IS BEAUTIFUL: The Featureban Game and Docker Prototyping
 
-PMox is to the data center as VBox is to the desktop. Chuck your ESX and vanilla KVM; ProxMox *rocks*.
+Get a little class at SMALL IS BEAUTIFUL and/or bring a little class with you.
 
-    Instructors: Troy Ridgley and David Willson
+    Instructors: Ed Schaefer and David Willson, at least
     Time: 9:00 AM to 1:00 PM
-    Date: Saturday, November 16, 2019
-    Location: TBD
+    Date: Saturday, January 4, 2020
+    Location: Code
     Price: $16 or PWYC
-[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/266395415/)
+[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/267112354/)
+
 
 ## Linux Sysadmin Night School: LFCS CSG
 
-Eight two-hour live sessions ought to do it.
+Eight two-hour live training sessions with two expert intructors. Deepen your understanding of Linux System Administration and prepare for the LFCS exam.
 
     Instructors: GAR and DLW
     Start: 7PM-9PM, Monday, January 13th, and every Monday for 8
     Location: The Comfy Room and Zoom
     4237 W Grand Ave, Littleton, CO
-    Price: $256 or PWYC (CSG tuition also applies to Linux Camp 2020*)
+    Price: $256 or PWYC (CSG tuition also applies to Linux Camp 2020, if it happens)
 
 [WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/265940729/)
 

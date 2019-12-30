@@ -4,16 +4,6 @@ See also: [The Past](schedule-past.md)
 
 | Date          | Subject   | Location     | Teacher           | Prep | Post | Promote | Payout |
 | ------------- | --------- | ------------ | ----------------- | ---- | ---- | ------- | ------ |
-| **October**   |
-| 2019-10-04    | AGHI2 OpenStack | CodeTalent | CRF and DLW | #731 | #732 | #733 |  |
-| 2019-10-18    | Intro to DevOps (3rd run) | CodeTalent | Aaron, Anthony, Silvia | #734 | #700 | #735 |  |
-| **November**  |
-| 2019-11-02    |  |  |  |  |  |  |  |
-| 2019-11-16    | Nextcloud: Share it your way | CodeTalent | Mike Shoup | #767 | #765 | #766 | #768 |
-| **December**  |
-| 2019-12-07    | AGHI2 ProxMox | Comfy Room | TRR and DLW |  |  |  |  |
-| 2019-12-21    | Holiday Open House | Comfy Room | Heather | NA | NA | NA | NA |
-| 2019-12-28    | Linus' Birthday |  |  |  |  |  |  |
 | **January**   |
 | 2020-01-04    | SIB | Code | Ed, DLW | #830 | #803 | #831 | #832 |
 | 2020-01-13    | LFCS SG | Comfy Room & Zoom | Garheade and DLW | #772 | https://www.meetup.com/sofreeus/events/brlxlrybccbrb/ | #779 | #833 |

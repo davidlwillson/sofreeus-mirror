@@ -10,7 +10,7 @@ See also: [The Past](schedule-past.md)
 | 2020-01-17    | CU I2DO | CU | Anthony & Aaron | #790 #839 | n/a | n/a | #835 |
 | **February**  |
 | 2020-02-01    |  |  |  |  |  |  |  |
-| 2020-02-15    |  |  |  |  |  |  |  |
+| 2020-02-15    | Intro to DevOps | Code Talent | ??? | #795 ? #816 | #815 | #840 | #841 |
 | **March**     |
 | 2020-03-07    | Ansible | CodeTalent | David | #826 | #827 | #828 | #829 |
 | 2020-03-14    | Pi Day |  |  |  |  |  |  |

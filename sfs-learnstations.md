@@ -42,3 +42,5 @@ mv $name.ova ~/Nextcloud/SFS-Captains-Booty/VBoxVMs/
 notes:
 - I have switched to PS/2 mouse and disabled audio and USB. I found that USB 2.0 was enabled, which was not needed and was stopping a fresh import from starting on hosts without the proprietary host extensions. --DLW
 - I have failed so far to load guest extensions on Fedora 30. --DLW
+- Eoan install hung 3x. Adding a second processor seems to be what fixed it. --DLW
+- Eoan VM kept losing the mouse in VBox 6.0.14 on Fedora 31. I changed the VM chipset to ICH9 and it seems to be fixed so far. --DLW

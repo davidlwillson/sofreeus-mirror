@@ -38,6 +38,8 @@ When we say 'free', we mean free as in freedom, not [lunch](https://en.wikipedia
 
 Today's class price is ($32, $64, $128, or whatever). If you'd rather pay more, less, or differently, you may Pay What You Choose.
 
+We ALSO give these classes in a corporate wrapper.   We would loooove to give this same class to your company and even do some customization to suit your needs – if you like us and you like our class, please talk to us BEFORE you give any pricing information.   Our pricing is higher when we dress up, tell clean jokes and take time out DURING the week to teach and deliver ONSITE.   You CAN still get the same teachers, but keep in mind to come to us before presenting pricing to your decision maker.  
+
 ## Introduce the Delivery Team
 
   * Board-members

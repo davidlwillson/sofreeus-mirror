@@ -44,3 +44,4 @@ notes:
 - I have failed so far to load guest extensions on Fedora 30. --DLW
 - Eoan install hung 3x. Adding a second processor seems to be what fixed it. --DLW
 - Eoan VM kept losing the mouse in VBox 6.0.14 on Fedora 31. I changed the VM chipset to ICH9 and it seems to be fixed so far. --DLW
+- Machines should have auto updates disabled so we don't get package system lock errors when users got to install things. --Alex

@@ -5,26 +5,13 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 ## Highlights
 
-* Um, the holidays happened. Are happening. Basically, holidays don't stop 'til like... mid-January I think.
-* Remember to tip your server.
-* No seriously, Boxing Day is a thing. Give your mail-carrier, the guys (probably) who take your trash from the curb, and so on, a little gift. Cash works, but Uncle Ray gives beer.
-  all the folks that make less than you and make *your* life better. Gift 'em, or tip 'em. Seriously. And, maybe a nice card with "thanks" inside.
+* Small is Beautiful was a B I G Success
+* Ed's Featureban class demonstrated how effective teams get more done.
+* David gave a great introduction to Docker. New class materials are [here](https://gitlab.com/DLWillson/blug-2019-11-14) 
 
 ---
 
 # UPCOMING CLASSES
-
-## SMALL IS BEAUTIFUL: The Featureban Game and Docker Prototyping
-
-Get a little class at SMALL IS BEAUTIFUL and/or bring a little class with you.
-
-    Instructors: Ed Schaefer and David Willson, at least
-    Time: 9:00 AM to 1:00 PM
-    Date: Saturday, January 4, 2020
-    Location: Code
-    Price: $16 or PWYC
-[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/267112354/)
-
 
 ## Linux Sysadmin Night School: LFCS CSG
 
@@ -39,6 +26,28 @@ Eight two-hour live training sessions with two expert intructors. Deepen your un
 [WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/265940729/)
 
 ---
+
+## Intro to DevOps (with Gitlab and Kubernetes)
+
+One eight-hour smorgasbord to take you from Linux basics through Bash, Git, Continuous Integration, Docker, F5/Nginx, and **NEW** Kubernetes.
+    Instructors: Silvia, Anthony, and Alex
+    Start: 9AM-5PM, Saturday, February 15th
+    Location: CODE Talent
+    3412 Blake St · Denver, CO
+    Price: $256 or [PWYC](https://en.wikipedia.org/wiki/Pay_what_you_want)
+    
+[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/267124217/)
+
+##A Gentle, Hands-on Introduction to Ansible
+
+Test drive the most powerful configuration management platform with an expert guide.
+    Instructors: David Willson
+    Start: 9AM-1PM, Saturday, April 4th
+    Location: CODE Talent
+    3412 Blake St · Denver, CO
+    Price: $32 or [PWYC](https://en.wikipedia.org/wiki/Pay_what_you_want)
+
+[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/267248805)
 
 If you don't see what you want, send your wish to captains@sofree.us! We definitely take requests!
 

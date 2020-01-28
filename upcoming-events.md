@@ -5,10 +5,9 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 ## Highlights
 
-* Small is Beautiful was a B I G Success
-* Ed's Featureban class demonstrated how effective teams get more done.
-* David gave a great introduction to Docker. New class materials are [here](https://gitlab.com/DLWillson/blug-2019-11-14) 
+* We got funding for scholarships for upcoming Intro To DevOps class! From Apex Systems Recruiting. Anyone who wants to take this but needs a little help to do it, take a look now [here](https://docs.google.com/forms/d/e/1FAIpQLSfiSI8keGto3fZv0HaQ5uydSqSlcLGLTMFnPQi8oLLW6DW6qg/viewform?usp=pp_url&entry.2103456709=2020-02-15+Intro+To+DevOps+w/Gitlab+and+K8s)
 
+* We don't want to turn people away so we put our sponsorship money from good partners like Apex towards covering cost of the class rather than beer and pizza (nothing against beer and pizza)
 ---
 
 # UPCOMING CLASSES
@@ -18,12 +17,12 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 Eight two-hour live training sessions with two expert intructors. Deepen your understanding of Linux System Administration and prepare for the LFCS exam.
 
     Instructors: GAR and DLW
-    Start: 7PM-9PM, Monday, January 13th, and every Monday for 8
+    Start: 7PM-9PM, Monday, February 3rd, and every Monday through March 2nd
     Location: The Comfy Room and Zoom
     4237 W Grand Ave, Littleton, CO
     Price: $256 or PWYC (CSG tuition also applies to Linux Camp 2020, if it happens)
 
-[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/265940729/)
+[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/mqpfnrybcdbfb/)
 
 ---
 
@@ -35,10 +34,24 @@ One eight-hour smorgasbord to take you from Linux basics through Bash, Git, Cont
     Location: CODE Talent
     3412 Blake St · Denver, CO
     Price: $256 or [PWYC](https://en.wikipedia.org/wiki/Pay_what_you_want)
-    
+
 [WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/267124217/)
 
-##A Gentle, Hands-on Introduction to Ansible
+
+
+## Intro to Docker
+
+A gentle hands-on Intro to Docker - more info coming
+    Instructors: TBD
+    Start: 9AM-1PM, Saturday, March 21st
+    Location: CODE Talent
+    3412 Blake St · Denver, CO
+    Price: $64
+
+[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/266737100/)
+
+
+## A Gentle, Hands-on Introduction to Ansible
 
 Test drive the most powerful configuration management platform with an expert guide.
     Instructors: David Willson

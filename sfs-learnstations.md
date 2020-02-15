@@ -50,3 +50,5 @@ notes:
   ```bash
   sudo systemctl disable cups-browsed.service
   ```
+- Make sure Eoan auto updates is turned off
+- Make sure Video Memory is greater than the default 16mb. Black screen issues reported.

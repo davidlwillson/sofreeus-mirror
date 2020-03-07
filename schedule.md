@@ -21,7 +21,7 @@ See also: [The Past](schedule-past.md)
 | 2020-04-04    | Ansible | CodeTalent | David | #826 | #827 | #828 | #829 |
 | 2020-04-18    |  |  |  |  |  |  |  |
 | **May**       |
-| 2020-05-02    |  |  |  |  |  |  |  |
+| 2020-05-02    | Stencyl | CodeTalent | Conor B. | #849 | #850 | #851 | #852 |
 | 2020-05-16    |  |  |  |  |  |  |  |
 | **June**      |
 | 2020-06-06    |  |  |  |  |  |  |  |

@@ -22,7 +22,7 @@ See also: [The Past](schedule-past.md)
 | 2020-04-18    | Featureban + EventStorming | CodeTalent | Ed |  |  |  |  |
 | **May**       |
 | 2020-05-02    | HAProxy or Stencyl? | CodeTalent | Conor B. | #849 | #850 | #851 | #852 |
-| 2020-05-16    | NGINX |  | Silvia |  |  |  |  |
+| 2020-05-16    |  |  | |  |  |  |  |
 | **June**      |
 | 2020-06-05    | DevOps Camp (or Linux Camp) | ?? | Aaron and/or David |  |  |  |  |
 | 2020-06-06    |  |  |  |  |  |  |  |

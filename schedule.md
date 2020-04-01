@@ -21,8 +21,8 @@ See also: [The Past](schedule-past.md)
 | 2020-04-04    | Ansible | CodeTalent | David | #826 | #827 | #828 | #829 |
 | 2020-04-18    | Featureban + EventStorming | CodeTalent | Ed |  |  |  |  |
 | **May**       |
-| 2020-05-02    | HAProxy or Stencyl? | CodeTalent | Conor B. | #849 | #850 | #851 | #852 |
-| 2020-05-16    |  |  | |  |  |  |  |
+| 2020-05-02    | Stencyl | CodeTalent | Conor B. | #849 | #850 | #851 | #852 |
+| 2020-05-16    | Haproxy |  | |  |  |  |  |
 | **June**      |
 | 2020-06-05    | DevOps Camp (or Linux Camp) | ?? | Aaron and/or David |  |  |  |  |
 | 2020-06-06    |  |  |  |  |  |  |  |

@@ -55,7 +55,7 @@ See also: [The Future](schedule.md)
 | 2020-03-07    | Pi Fight| | | | |  |  |
 | 2020-03-14    | Pi Day |  |  |  |  |  |  |
 | 2020-03-16    | RMS' Birthday |  |  |  |  |  |  |
-| 2020-03-21    | Intro to Docker | CodeTalent | tbd | #808 | #807 | #809 | #810 |
+| 2020-03-21    | Intro to Docker | Online | tbd | #808 | #807 | #809 | #810 |
 | **April**     |
-| 2020-04-04    | Ansible | CodeTalent | David | #826 | #827 | #828 | #829 |
-| 2020-04-18    | Featureban + EventStorming | CodeTalent | Ed |  |  |  |  |
+| 2020-04-04    | Ansible | Online | David | #826 | #827 | #828 | #829 |
+| 2020-04-18    | Featureban | Online | Ed |  |  |  |  |

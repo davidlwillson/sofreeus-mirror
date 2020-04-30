@@ -5,22 +5,15 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 ## Highlights
 
-* Three! Three quarantine-compatible online classes successfully delivered! Wa-a-a!
+* Hoping you and your are all SAFE and SOUND!  The weather is fabulous!  Get out there and enjoy the sunshine!  VitD is great for your immune system. :)
+* We are still running our classes via ZOOM so it's safe to learn with us! 
+* Featurban, with Ed Schaefer, was a lot of fun.  I had no idea Agile could be so fun.  Thanks Ed.  
+* We have a lot of great classes coming up!  See below for the details.  Check out the links to register via Meetup.
 
 ---
 
 # UPCOMING CLASSES
 
-## ONLINE: Security+ Peer-led Study Group
-
-Get ready for your Security+ exam with friends!
-
-    Kyle Peters
-    7PM - 9PM Monday nights, starting April 20th
-    Zoom
-    75 USD or PWYC
-
-[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/rtvpqrybcgbbc/)
 
 ## ONLINE: Game Programming with Stencyl
 
@@ -33,6 +26,17 @@ Create snazzy games in the Stencyl block-programming system
 
 [WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/270107179/)
 
+## ONLINE: RHCSA Peer-led Certification Study Group
+
+RHCSA - Red Hat Certified System Administrator 8 - Prep for Exam
+
+    Chris Salle
+    5pm - 6:30pm Wednesdays, starting May 6 (running for 6 weeks)
+    ZOOM
+    32 USD or PWYC (the cost of a paperback book is $42.  We recommend at least paying the cost of the book, please)
+
+[WOULD YOU LIKE TO KNOW **MORE?**] (https://www.meetup.com/sofreeus/events/270338892/)
+
 ## ONLINE: High Availability and Source-Routing with HAProxy
 
 Create a highly-available website and send pesky customers to a maintenance page while allowing QA engineers to get through.
@@ -42,7 +46,7 @@ Create a highly-available website and send pesky customers to a maintenance page
     Zoom
     32 USD or PWYC
 
-Link anon
+[WOULD YOU LIKE TO KNOW **MORE?**] (https://www.meetup.com/sofreeus/events/270351178/)
 
 ---
 

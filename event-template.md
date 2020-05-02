@@ -57,6 +57,10 @@ Replace the example quotes below with the actual values for the event.
 
 > https://gitlab.com/sofreeus/sfs-method
 
+**Upstream**
+
+Identify which upstream project will receive a contribution from proceeds.
+
 **License**
 
 (license name or "in the materials")

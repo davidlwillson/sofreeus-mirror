@@ -4,3 +4,4 @@
 - [ ] List the event on [Meetup](https://www.meetup.com/sofreeus/)
     * Does the Meetup posting have a nice graphic, objectives, requirements, and price?
 - [ ] Update [Upcoming Events](upcoming-events.md)
+- [ ] Add the event to the sign-in sheet.

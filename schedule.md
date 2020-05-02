@@ -9,9 +9,8 @@ See also: [The Past](schedule-past.md)
 | 2020-05-06    | RHCSA CSG | Online | Mark Sallee and DLW |  |  |  |  |
 | 2020-05-16    | Haproxy |  | |  |  |  |  |
 | **June**      |
-| 2020-06-05    | DevOps Camp (or Linux Camp) | ?? | Aaron and/or David |  |  |  |  |
-| 2020-06-06    |  |  |  |  |  |  |  |
-| 2020-06-20    | Penetrations and Remediations |  | Mike Harris |  |  |  |  |
+| 2020-06-06    | Hacking Hours + Meetup API Hackathon | Online | Alex W |  |  |  |  |
+| 2020-06-20    | Penetrations and Remediations | Online | Mike Harris |  |  |  |  |
 | **July**      |
 | 2020-07-11    | nginx | Code | Silvia and Shannon |  |  |  |  |
 | 2020-07-18    | Intro to DevOps |  |  |  |  |  |  |

@@ -9,8 +9,8 @@
 
 ##### Use this pattern for issue naming:
 
-`<P-word>: <yyyy-mm-dd>: <class-name> with <teacher>`
+`<P-word> <M/D>: <class-single-word-name> w <teacher>`
 
 Example:
 
-`Promote: 2047-04-20: ZickleTwister with Shoup`
+`Promote 4/20: ZickleTwister w Shoup`

@@ -16,7 +16,7 @@ See also: [The Past](schedule-past.md)
 | 2020-07-18    | Intro to DevOps |  |  |  |  |  |  |
 | **August**    |
 | 2020-08-01    | Prometheus and Friends |  | David + Mike S |  |  |  |  |
-| 2020-08-14    | Linux Camp (or DevOps) |  | David and/or Aaron |  |  |  |  |
+| 2020-08-14    | TBD |  | TBD |  |  |  |  |
 | **September** |
 | 2020-09-05    | DevSecOps Beta |  | Anthony, Silvia, Aaron |  |  |  |  |
 | 2020-09-19    |  |  |  |  |  |  |  |

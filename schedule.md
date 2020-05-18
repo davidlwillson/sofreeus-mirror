@@ -16,12 +16,12 @@ See also: [The Past](schedule-past.md)
 | 2020-07-18    | Intro to DevOps |  |  |  |  |  |  |
 | **August**    |
 | 2020-08-01    | Prometheus and Friends |  | David + Mike S |  |  |  |  |
-| 2020-08-14    | TBD |  | TBD |  |  |  |  |
+| 2020-08-14    |  |  |  |  |  |  |  |
 | **September** |
 | 2020-09-05    | DevSecOps Beta |  | Anthony, Silvia, Aaron |  |  |  |  |
 | 2020-09-19    |  |  |  |  |  |  |  |
 | **October**   |
-| 2020-10-03    |  |  |  |  |  |  |  |
+| 2020-10-03    | OpenStack |  |  |  |  |  |  |
 | 2020-10-17    | Intro to DevOps |  |  |  |  |  |  |
 | **November**  |
 | 2020-11-07    |  |  |  |  |  |  |  |

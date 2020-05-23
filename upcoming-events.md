@@ -7,7 +7,7 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 * Hoping you and your are all SAFE and SOUND!  The weather is fabulous!  Get out there and enjoy the sunshine!  VitD is great for your immune system. :)
 * We are still running our classes via ZOOM so it's safe to learn with us! 
-* Featurban, with Ed Schaefer, was a lot of fun.  I had no idea Agile could be so fun.  Thanks Ed.  
+* HA-Proxy was a success. Thanks David for the great material!
 * We have a lot of great classes coming up!  See below for the details.  Check out the links to register via Meetup.
 
 ---
@@ -15,38 +15,49 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 # UPCOMING CLASSES
 
 
-## ONLINE: Game Programming with Stencyl
+## ONLINE: Hacking Hours vs. the Meetup API
 
-Create snazzy games in the Stencyl block-programming system
+The Software Freedom Gang is going to meet on Zoom to build automation against the Meetup API. We'll be looking to automate creating, promoting, and pulling data on Meetup Events.
 
-    Conor Brown (assisted by Aaron Brown)
-    9AM - 1PM Saturday, May 2nd
+As always, feel free to bring your own interesting problems or interests and we'll hack away on them.
+
+    9AM - 1PM Saturday, June 6th
     Zoom
-    16 USD or PWYC
+    FREE or PWYC
 
-[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/270107179/)
+[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/270753057/)
 
-## ONLINE: RHCSA Peer-led Certification Study Group
+## ONLINE: TBD! Give us your ideas!
 
-RHCSA - Red Hat Certified System Administrator 8 - Prep for Exam
+We have an opening to host a class on the 3rd Saturday of June. Please let us know what you'd like to see and we'll do our best to make it happen.
 
-    Chris Salle
-    5pm - 6:30pm Wednesdays, starting May 6 (running for 6 weeks)
-    ZOOM
-    32 USD or PWYC (the cost of a paperback book is $42.  We recommend at least paying the cost of the book, please)
-
-[WOULD YOU LIKE TO KNOW **MORE?**] (https://www.meetup.com/sofreeus/events/270338892/)
-
-## ONLINE: High Availability and Source-Routing with HAProxy
-
-Create a highly-available website and send pesky customers to a maintenance page while allowing QA engineers to get through.
-
-    David L. Willson
-    9AM - 1PM Saturday, May 16th
+    9AM - 1PM Saturday, June 20th
     Zoom
-    32 USD or PWYC
+    TBD
 
-[WOULD YOU LIKE TO KNOW **MORE?**] (https://www.meetup.com/sofreeus/events/270351178/)
+[WOULD YOU LIKE TO KNOW **MORE?** US TOO! Details TBD](https://www.meetup.com/sofreeus)
+
+## ONLINE: A Gentle Hand-On Introduction to NGINX
+
+It's a Web Server! It's a Load Balancer! It's a Reverse Proxy! Come get your hands dirty learning how to use the software that serves an estimated one-third of all web pages. Silvia and Shannon will take you through the fundamentals of how to use and why to choose NGINX for all your needs.
+
+    Silvia and Shannon
+    9AM - 1PM Saturday, July 11th
+    Zoom
+    $32 or PWYC
+
+[WOULD YOU LIKE TO KNOW **MORE?** US TOO! Details TBD](https://www.meetup.com/sofreeus)
+
+## ONLINE: Intro to DevOps
+
+Our Flagship Class! Come learn to build an automated deployment pipeline from scratch! We'll start with Linux and git basics, and build out a working CI/CD pipeline on Gitlab and Kubernetes! It's an eight-hour career-boosting extravaganza!
+
+    Aaron, Anthony, Silvia
+    9AM - 1PM Saturday, July 18th
+    Zoom
+    $256 or PWYC
+
+[WOULD YOU LIKE TO KNOW **MORE?** US TOO! Details TBD](https://www.meetup.com/sofreeus)
 
 ---
 

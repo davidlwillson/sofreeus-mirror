@@ -12,8 +12,8 @@ See also: [The Past](schedule-past.md)
 | 2020-06-06    | Hacking Hours + Meetup API Hackathon | Online | Alex W |  |  |  |  |
 | 2020-06-20    | Penetrations and Remediations | Online | Mike Harris |  |  |  |  |
 | **July**      |
-| 2020-07-11    | nginx | Online | Silvia and Shannon |  |  |  |  |
-| 2020-07-18    | Intro to DevOps |  |  |  |  |  |  |
+| 2020-07-11    | NGINX (New Content, $16) | Online | Silvia and Shannon |  |  |  |  |
+| 2020-07-18    | Intro to DevOps | Online | Anthony, Aaron, Silvia |  |  |  |  |
 | **August**    |
 | 2020-08-01    | Prometheus, Grafana, and Friends |  | Mike Shoup, Justin Lang, and DLW |  |  |  |  |
 | 2020-08-14    |  |  |  |  |  |  |  |

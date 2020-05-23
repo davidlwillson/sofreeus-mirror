@@ -44,7 +44,7 @@ It's a Web Server! It's a Load Balancer! It's a Reverse Proxy! Come get your han
     Silvia and Shannon
     9AM - 1PM Saturday, July 11th
     Zoom
-    $32 or PWYC
+    $16 or PWYC
 
 [WOULD YOU LIKE TO KNOW **MORE?** US TOO! Details TBD](https://www.meetup.com/sofreeus)
 

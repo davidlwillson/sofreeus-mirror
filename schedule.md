@@ -16,7 +16,7 @@ See also: [The Past](schedule-past.md)
 | 2020-07-18    | Intro to DevOps | Online | Anthony, Aaron, Silvia |  |  |  |  |
 | **August**    |
 | 2020-08-01    | Prometheus, Grafana, and Friends |  | Mike Shoup, Justin Lang, and DLW |  |  |  |  |
-| 2020-08-14    | Start Streamig or Step Up Your Meetings with OBS |  | Ed Schaefer |  |  |  |  |
+| 2020-08-14    | Start Streaming or Step Up Your Meetings with OBS |  | Ed Schaefer |  |  |  |  |
 | **September** |
 | 2020-09-05    | DevSecOps Beta |  | Anthony, Silvia, Aaron |  |  |  |  |
 | 2020-09-19    | MobDojo - Learn to Mob |  | Ed Schaefer |  |  |  |  |

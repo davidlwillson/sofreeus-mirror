@@ -12,3 +12,4 @@ On Tuesday at noon or ASAP thereafter:
     - Use the 'send-upcoming-events' template
     - Set the due-date to next Tuesday
     - Assign it to the next person in rotation: Alex, Anthony, David, Heather
+    - Move into To Do

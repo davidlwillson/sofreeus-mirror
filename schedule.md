@@ -24,7 +24,8 @@ See also: [The Past](schedule-past.md)
 | 2020-10-03    | OpenStack |  |  |  |  |  |  |
 | 2020-10-17    | Intro to DevOps |  |  |  |  |  |  |
 | **November**  |
-| 2020-11-07    |  |  |  |  |  |  |  |
+| 2020-11-07    | ?? Featureban/Changeban ?? |  | Ed Schaefer |  |  |  |  |
 | 2020-11-21    | DevSecOps Round 1 |  |  |  |  |  |  |
+| **December**  |
 | 2020-12-05    | Proxmox |  |  |  |  |  |  |
 | 2020-12-19    | Year Retro + Thank You Dinner |  |  |  |  |  |  |

@@ -10,7 +10,7 @@ See also: [The Past](schedule-past.md)
 | 2020-05-16    | Haproxy | Online | DLW |  | https://www.meetup.com/sofreeus/events/270351178/ |  |  |
 | **June**      |
 | 2020-06-06    | Hacking Hours + Meetup API Hackathon | Online | Alex W |  |  |  |  |
-| 2020-06-20    | Penetrations and Remediations | Online | Mike Harris |  |  |  |  |
+| 2020-06-20    | | | |  |  |  |  |
 | **July**      |
 | 2020-07-11    | NGINX (New Content, $16) | Online | Silvia and Shannon |  |  |  |  |
 | 2020-07-18    | Intro to DevOps | Online | Anthony, Aaron, Silvia |  |  |  |  |

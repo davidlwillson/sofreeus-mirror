@@ -59,3 +59,7 @@ See also: [The Future](schedule.md)
 | **April**     |
 | 2020-04-04    | Ansible | Online | David | #826 | #827 | #828 | #829 |
 | 2020-04-18    | Featureban | Online | Ed |  |  |  |  |
+| **May**       |
+| 2020-05-02    | Stencyl | Online | Conor B. | #849 | #850 | #851 | #852 |
+| 2020-05-06    | RHCSA CSG | Online | Mark Sallee and DLW |  |  |  |  |
+| 2020-05-16    | Haproxy | Online | DLW |  | https://www.meetup.com/sofreeus/events/270351178/ |  |  |

@@ -4,10 +4,6 @@ See also: [The Past](schedule-past.md)
 
 | Date          | Subject   | Location     | Teacher           | Prep | Post | Promote | Payout |
 | ------------- | --------- | ------------ | ----------------- | ---- | ---- | ------- | ------ |
-| **May**       |
-| 2020-05-02    | Stencyl | Online | Conor B. | #849 | #850 | #851 | #852 |
-| 2020-05-06    | RHCSA CSG | Online | Mark Sallee and DLW |  |  |  |  |
-| 2020-05-16    | Haproxy | Online | DLW |  | https://www.meetup.com/sofreeus/events/270351178/ |  |  |
 | **June**      |
 | 2020-06-06    | Hacking Hours + Meetup API Hackathon | Online | Alex W |  |  |  |  |
 | 2020-06-20    | | | |  |  |  |  |

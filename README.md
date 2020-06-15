@@ -6,7 +6,7 @@ Links that are useful to SFS Captains:
 - [SoFreeUs Meetup](https://www.meetup.com/sofreeus/)
 - [SFS BizAdmins on Mattermost](http://mm.sofree.us/sfs-team/channels/sfs-bizadmins)
 - [Zimbra Collaboration Server](https://blue.sofree.us:8443/)
-- [[Website](www.sofree.us)] | [[Source](https://gitlab.com/sofreeus.gitlab.io)]
+- [www.SoFree.Us](www.sofree.us) ([Source](https://gitlab.com/sofreeus.gitlab.io))
 - [Nextcloud](https://nextcloud.sofree.us)
 
 ---

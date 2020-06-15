@@ -11,7 +11,7 @@ See also: [The Past](schedule-past.md)
 | 2020-07-11    | OpenShift | Online | Silvia | #905 | #906 | #907 | #908 |
 | 2020-07-18    | Intro to DevOps | Online | Anthony, Aaron, Silvia | #901 | #900 | #902 | #903 |
 | **August**    |
-| 2020-08-01    | Prometheus, Grafana, and Friends | Online | Mike Shoup, Justin Lang, and DLW |  |  |  |  |
+| 2020-08-01    | Prometheus, Grafana, and Friends | Online | Mike Shoup, Justin Lang, and DLW | #912 | #913 | #914 | #915 |
 | 2020-08-14    | Start Streaming or Step Up Your Meetings with OBS |  | Ed Schaefer |  |  |  |  |
 | **September** |
 | 2020-09-05    | DevSecOps Beta |  | Anthony, Silvia, Aaron |  |  |  |  |

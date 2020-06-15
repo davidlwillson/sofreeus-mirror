@@ -6,7 +6,7 @@ See also: [The Past](schedule-past.md)
 | ------------- | --------- | ------------ | ----------------- | ---- | ---- | ------- | ------ |
 | **June**      |
 | 2020-06-06    | Hacking Hours + Meetup API Hackathon | Online | Alex W |  |  |  |  |
-| 2020-06-20    | | | |  |  |  |  |
+| 2020-06-20    | Hacking Hours | Online | DLW | #909 | #910 | #911 | NA |
 | **July**      |
 | 2020-07-11    | OpenShift | Online | Silvia | #905 | #906 | #907 | #908 |
 | 2020-07-18    | Intro to DevOps | Online | Anthony, Aaron, Silvia | #901 | #900 | #902 | #903 |

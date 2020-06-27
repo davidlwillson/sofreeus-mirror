@@ -5,29 +5,17 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 ## Highlights
 
-* Hoping you and your are all SAFE and SOUND!  The weather is fabulous!  Get out there and enjoy the sunshine!  VitD is great for your immune system. :)
-* We are still running our classes via ZOOM so it's safe to learn with us! 
-* HA-Proxy was a success. Thanks David for the great material!
-* We have a lot of great classes coming up!  See below for the details.  Check out the links to register via Meetup.
+* Its a different world since I last write one of these updates. Pandemic, protests, an uncertain future. It's been difficult to know what to do or how to react.
+* For now the best course of action we can think of is to just give to what we believe in: To that end, all proceeds from our upcoming Intro to DevOps class in July will go to [CODE2040](https://code2040-2020.funraise.org/) - sign-up link for the class is below
+* To pay for the class, please sign up at below link first. You can then pay the normal way and we'll forward your payment to CODE2040. OR send a donation to CODE2040 directly for the suggested class price, include a comment along with your donation that says something like "SFS fundraiser" or "software freedom school", and send us a screen-shot of your donation (there's a "recent donors" tab on the donation page that will show a record of your donation). Send screenshot to captains@sofree.us (with something appropriate in the subject), we'll reply with confirmation of your slot in the class!
+* Or you can pay us the normal ways directly and we'll send your donation on to CODE2040 after the class.
+* At hacking hours recently we spent some time working on automating meetup API.
+* We just wrapped an RHCSA study group led by David Willson and Mark Sallee. Mark has been an SFS member for a while now and this is his first foray into class hosting with us. Thanks Mark!
+
 
 ---
 
 # UPCOMING CLASSES
-
-
-## ONLINE Hacking Hours: Digital Independence Day
-
-Let's look at this Humble Bundle: https://www.humblebundle.com/books/protect-your-stuff-apress-books
-
-I (David) will probably buy a copy and we can explore it in-depth together. No, we won't pirate it. We're not the kind of pirates that violate the creator's consent.
-
-As always, feel free to bring your own interesting problems and we'll hack on them too!
-
-    9AM - 1PM Saturday, June 20th
-    Jitsi
-    FREE or PWYC
-
-[WOULD YOU LIKE TO KNOW **MORE?**](https://www.meetup.com/sofreeus/events/271300765/)
 
 ## ONLINE: A Gentle Hand-On Introduction to OpenShift
 
@@ -45,7 +33,7 @@ RSVP TBA
 Our Flagship Class! Come learn to build an automated deployment pipeline from scratch! We'll start with Linux and git basics, and build out a working CI/CD pipeline on Gitlab and Kubernetes! It's an eight-hour career-boosting extravaganza!
 
     Aaron, Anthony, Silvia
-    9AM - 1PM Saturday, July 18th
+    9AM - 5PM Saturday, July 18th
     Zoom
     $192 or PWYC
 

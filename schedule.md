@@ -12,10 +12,10 @@ See also: [The Past](schedule-past.md)
 | 2020-07-18    | Intro to DevOps | Online | Anthony, Aaron, Silvia | #901 | #900 | #902 | #903 |
 | **August**    |
 | 2020-08-01    | Prometheus, Grafana, and Friends | Online | Mike Shoup, Justin Lang, and DLW | #912 | #913 | #914 | #915 |
-| 2020-08-14    | Start Streaming or Step Up Your Meetings with OBS |  | Ed Schaefer |  |  |  |  |
+| 2020-08-14    | Start Streaming or Step Up Your Meetings with OBS | Online | Ed Schaefer | #921 | #917 | #923 | #924 |
 | **September** |
 | 2020-09-05    | DevSecOps Beta |  | Anthony, Silvia, Aaron |  |  |  |  |
-| 2020-09-19    | MobDojo - Learn to Mob |  | Ed Schaefer |  |  |  |  |
+| 2020-09-19    | MobDojo - Learn to Mob | Online | Ed Schaefer | #919 | #918 | #920 | #922 |
 | **October**   |
 | 2020-10-03    | OpenStack |  |  |  |  |  |  |
 | 2020-10-17    | Intro to DevOps |  |  |  |  |  |  |

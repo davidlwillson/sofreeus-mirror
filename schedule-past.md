@@ -66,3 +66,4 @@ See also: [The Future](schedule.md)
 | **June**      |
 | 2020-06-06    | Hacking Hours + Meetup API Hackathon | Online | Alex W |  |  |  |  |
 | 2020-06-20    | Hacking Hours | Online | DLW | #909 | #910 | #911 | NA |
+| 2020-06-27    | KTHW |  |  |  |  |  |  |

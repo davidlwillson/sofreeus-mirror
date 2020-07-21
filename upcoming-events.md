@@ -5,26 +5,15 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 ## Highlights
 
-* Intro To DevOps is this Saturday
-  - First online delivery
+* Completed our first online delivery of Intro To DevOps is this Saturday
   - All proceeds to [Code2040](www.code2040.org)
-  - Many students / scholarship partners sending directly to Code2040 at https://code2040-2020.funraise.org/
+  - Many students / scholarship partners directly sent their contribution to Code2040 at https://code2040-2020.funraise.org/
 * SFS events continue to be online-only for the near term
 
 ---
 
 # UPCOMING CLASSES
 
-## ONLINE: Intro to DevOps
-
-Our Flagship Class! Come learn to build an automated deployment pipeline from scratch! We'll start with Linux and git basics, and build out a working CI/CD pipeline on Gitlab and Kubernetes! It's an eight-hour career-boosting extravaganza!
-
-    Aaron, Anthony, Silvia
-    9AM - 5PM Saturday, July 18th
-    Zoom
-    $192 or PWYC
-
-WOULD YOU LIKE TO KNOW [**MORE?**](https://www.meetup.com/sofreeus/events/270755683/)
 
 ## ONLINE: Game Programming in Stencyl
 

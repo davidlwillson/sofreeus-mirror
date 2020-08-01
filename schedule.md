@@ -10,7 +10,7 @@ See also: [The Past](schedule-past.md)
 | 2020-07-18    | Intro to DevOps | Online | Anthony, Aaron, Silvia | #901 | #900 | #902 | #903 |
 | **August**    |
 | 2020-08-01    | Stencyl | online | Conor | #930 | #929 | #931 | #932 |
-| 2020-08-14    | Start Streaming or Step Up Your Meetings with OBS | Online | Ed Schaefer | #921 | #917 | #923 | #924 |
+| 2020-08-29    | Start Streaming or Step Up Your Meetings with OBS | Online | Ed Schaefer | #921 | #917 | #923 | #924 |
 | **September** |
 | 2020-09-05    | DevSecOps Beta |  | Anthony, Silvia, Aaron |  |  |  |  |
 | 2020-09-19    | MobDojo - Learn to Mob | Online | Ed Schaefer | #919 | #918 | #920 | #922 |

@@ -67,3 +67,10 @@ See also: [The Future](schedule.md)
 | 2020-06-06    | Hacking Hours + Meetup API Hackathon | Online | Alex W |  |  |  |  |
 | 2020-06-20    | Hacking Hours | Online | DLW | #909 | #910 | #911 | NA |
 | 2020-06-27    | KTHW |  |  |  |  |  |  |
+| **July**      |
+| 2020-07-11    | OpenShift | Online | Silvia | #905 | #906 | #907 | #908 |
+| 2020-07-18    | Intro to DevOps | Online | Anthony, Aaron, Silvia | #901 | #900 | #902 | #903 |
+| **August**    |
+| 2020-08-08    | Hacking Hours | online | Willson | --- | https://www.meetup.com/sofreeus/events/272387182/ | --- | --- |
+| 2020-08-22    | Hacking Hours | online | Willson | --- | https://www.meetup.com/sofreeus/events/272387196/ | --- | --- |
+| 2020-08-29    | Start Streaming or Step Up Your Meetings with OBS | Online | Ed Schaefer | #921 | #917 | #923 | #924 |

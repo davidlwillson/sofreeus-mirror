@@ -5,8 +5,8 @@ See also: [The Past](schedule-past.md)
 | Date          | Subject   | Location     | Teacher           | Prep | Post | Promote | Payout |
 | ------------- | --------- | ------------ | ----------------- | ---- | ---- | ------- | ------ |
 | **September** |
-| 2020-09-05    | OpenStack |  | David |  |  |  |  |
-| 2020-09-19    | How to Start Mob Programming | Online | Ed Schaefer | #919 | #918 | #920 | #922 |
+| 2020-09-10    | Python Study Group (8 weeks) | Online | Peer Led | | | |
+| 2020-09-12    | OpenStack |  | David |  |  |  |  |
 | **October**   |
 | 2020-10-03    | Prometheus, Grafana, and Friends | Online | Mike Shoup, Justin Lang, and DLW | #912 | #913 | #914 | #915 |
 | 2020-10-17    | Intro to DevOps |  | Anthony, Alex, Aaron, Silvia |  |  |  |  |

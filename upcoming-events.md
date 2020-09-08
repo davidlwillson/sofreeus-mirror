@@ -55,7 +55,7 @@ like to see highlighted, please say so early, so we can try to plan it in.
 
 Register on Meetup (https://www.meetup.com/sofreeus/events/272644680/)
 
-## October Classes (postings will be up soon)
+## OCTOBER CLASSES (postings will be up soon)
 
 # ONLINE: 2020-10-03 Prometheus, Grafana, and Friends 
 

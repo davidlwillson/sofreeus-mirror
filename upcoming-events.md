@@ -9,10 +9,10 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 * Crazy weather!  100 to 34 in less than 48 hours y'all. Hope you're sunscreened and mittened up.  Hehehe
 * Our Python Peer-led study group has 64 people registered on Meetup.  If you're one of them: AWESOME! If you can't make it please unregister because we have a waiting list.  Yowza!
 * Seagate is hiring a test engineer on Matt James' team
- https://seagate.wd1.myworkdayjobs.com/en-US/EXT/job/Longmont-United-States/Staff-Engineer--Solution-Test-Automation_201516
- Other CO opportunities can be found here:
- https://seagate.wd1.myworkdayjobs.com/EXT/1/refreshFacet/318c8bb6f553100021d223d9780d30be
- If you would like a reference, please send Matt an e-mail (matt.james@seagate.com) first and he'd be happy to help you out.
+ ** https://seagate.wd1.myworkdayjobs.com/en-US/EXT/job/Longmont-United-States/Staff-Engineer--Solution-Test-Automation_201516
+ ** Other CO opportunities can be found here:
+ ** https://seagate.wd1.myworkdayjobs.com/EXT/1/refreshFacet/318c8bb6f553100021d223d9780d30be
+ ** If you would like a reference, please send Matt an e-mail (matt.james@seagate.com) first and he'd be happy to help you out.
 * SFS events continue to be online-only for the near term
 
 ---

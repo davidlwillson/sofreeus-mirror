@@ -33,7 +33,7 @@ Hyperlink to book on Amazon: https://www.amazon.com/Python-Crash-Course-2nd-Edit
 
 Link to the online survey: https://tinyurl.com/SFSPython
 
-WOULD YOU LIKE TO KNOW [** MORE? **] (https://www.meetup.com/sofreeus/events/hxnkxrybcmbnb/)
+Register on Meetup (https://www.meetup.com/sofreeus/events/hxnkxrybcmbnb/)
 
 ---
 
@@ -50,14 +50,12 @@ Bring a machine with a web browser and a secure shell client.
 David has been using and assisting others with Free Software like Linux for more than 20 years, and operating the Software Freedom School
 (http://www.sofree.us/) since 2013.
 
-This class is in development; your suggestions and feedback are
-wanted! If there’s a particular feature of OpenStack that you would
-like to see highlighted, please say so early, so we can try to plan
-it in.
+This class is in development; your suggestions and feedback are wanted! If there’s a particular feature of OpenStack that you would
+like to see highlighted, please say so early, so we can try to plan it in.
 
-WOULD YOU LIKE TO KNOW [** MORE? **] (https://www.meetup.com/sofreeus/events/272644680/)
+Register on Meetup (https://www.meetup.com/sofreeus/events/272644680/)
 
-# October Classes (postings will be up soon)
+## October Classes (postings will be up soon)
 
 # ONLINE: 2020-10-03 Prometheus, Grafana, and Friends 
 

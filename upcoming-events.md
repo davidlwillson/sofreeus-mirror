@@ -58,6 +58,12 @@ it in.
 
 WOULD YOU LIKE TO KNOW [**MORE?**] (https://www.meetup.com/sofreeus/events/272644680/)
 
+## October Classes (postings will be up soon)
+
+# ONLINE: 2020-10-03 Prometheus, Grafana, and Friends 
+
+# ONLINE: 2020-10-17 Intro to DevOps 
+
 If you don't see what you want, send your wish to captains@sofree.us! We definitely take requests!
 
 ## Reminders

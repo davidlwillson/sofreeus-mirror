@@ -33,7 +33,7 @@ Hyperlink to book on Amazon: https://www.amazon.com/Python-Crash-Course-2nd-Edit
 
 Link to the online survey: https://tinyurl.com/SFSPython
 
-WOULD YOU LIKE TO KNOW [**MORE?**] (https://www.meetup.com/sofreeus/events/hxnkxrybcmbnb/)
+WOULD YOU LIKE TO KNOW [** MORE? **] (https://www.meetup.com/sofreeus/events/hxnkxrybcmbnb/)
 
 ---
 
@@ -55,9 +55,9 @@ wanted! If there’s a particular feature of OpenStack that you would
 like to see highlighted, please say so early, so we can try to plan
 it in.
 
-WOULD YOU LIKE TO KNOW [**MORE?**] (https://www.meetup.com/sofreeus/events/272644680/)
+WOULD YOU LIKE TO KNOW [** MORE? **] (https://www.meetup.com/sofreeus/events/272644680/)
 
-## October Classes (postings will be up soon)
+# October Classes (postings will be up soon)
 
 # ONLINE: 2020-10-03 Prometheus, Grafana, and Friends 
 

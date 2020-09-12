@@ -33,33 +33,42 @@ Hyperlink to book on Amazon: https://www.amazon.com/Python-Crash-Course-2nd-Edit
 
 Link to the online survey: https://tinyurl.com/SFSPython
 
-Register on Meetup (https://www.meetup.com/sofreeus/events/hxnkxrybcmbnb/)
+[Register on Meetup](https://www.meetup.com/sofreeus/events/hxnkxrybcmbnb/)
 
 ---
 
-## ONLINE: OpenStack: Free Software Clouds with David L. Willson
+## ONLINE: 2020-09-19 OpenStack: Free Software Cloud Infrastructure with David L. Willson
 
 OpenStack clouds are much freer and maybe fluffier. Let's use them, instead of un-free clouds.
 
-We will use an existing OpenStack cluster to provision a stack manually, and if time allows, by template, too.
+We will use two public OpenStack cloud providers (Fuga and City) and (hopefully) SFS' private DevStack cluster to provision infrastructure from the web GUI and the OpenStack CLI.
 
-We will manage Projects, Users, Instances, Elastic IP, and Security Groups, from the GUI, CLI, and if time allows, from a HEAT OpenStack Template.
+We will manage Instances, Elastic IP, and Security Groups, from the GUI, CLI, and if time allows, from a HEAT OpenStack Template.
 
 Bring a machine with a web browser and a secure shell client.
 
 David has been using and assisting others with Free Software like Linux for more than 20 years, and operating the Software Freedom School
 (http://www.sofree.us/) since 2013.
 
-This class is in development; your suggestions and feedback are wanted! If there’s a particular feature of OpenStack that you would
-like to see highlighted, please say so early, so we can try to plan it in.
+This class is *still* in heavy development; your suggestions and feedback are wanted! If there’s a particular feature of OpenStack that you would like to see highlighted, please say so early, so we can try to plan it in.
 
-Register on Meetup (https://www.meetup.com/sofreeus/events/272644680/)
+[Register on Meetup](https://www.meetup.com/sofreeus/events/273214887/)
 
 ## OCTOBER CLASSES (postings will be up soon)
 
-# ONLINE: 2020-10-03 Prometheus, Grafana, and Friends 
+# ONLINE: 2020-10-03 Monitoring, Alerting, and Dashboards with Prometheus, Grafana, and friends
 
-# ONLINE: 2020-10-17 Intro to DevOps 
+Mike Shoup, Justin Lang, and David L. Willson will deliver a hands-on workshop in which you will experience the beauty and utility of metrics-based monitoring with Prometheus, Grafana, and friends.
+
+[Register on Meetup](https://www.meetup.com/sofreeus/events/273211086/)
+
+# ONLINE: 2020-10-17 Intro to DevOps with GitLab and Kubernetes
+
+Aaron and Anthony deliver the full-day Intro to DevOps class that everyone loves.
+
+[Register on Meetup](https://www.meetup.com/sofreeus/events/273214581/)
+
+---
 
 If you don't see what you want, send your wish to captains@sofree.us! We definitely take requests!
 

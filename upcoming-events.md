@@ -5,14 +5,10 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 ## Highlights
 
-* Ed Schaefer's Open Broadcaster Software class was a hit!  Thanks Ed for getting people excited about OBS! 
-* Crazy weather!  100 to 34 in less than 48 hours y'all. Hope you're sunscreened and mittened up.  Hehehe
-* Our Python Peer-led study group has 64 people registered on Meetup.  If you're one of them: AWESOME! If you can't make it please unregister because we have a waiting list.  Yowza!
-* Seagate is hiring a test engineer on Matt James' team
-* https://seagate.wd1.myworkdayjobs.com/en-US/EXT/job/Longmont-United-States/Staff-Engineer--Solution-Test-Automation_201516
-* Other CO opportunities can be found here: https://seagate.wd1.myworkdayjobs.com/EXT/1/refreshFacet/318c8bb6f553100021d223d9780d30be
-* If you would like a reference, please send Matt an e-mail (matt.james@seagate.com) first and he'd be happy to help you out.
-* SFS events continue to be online-only for the near term
+* The Python Peer-led study group kicked off last week!  And MAN OH MAN was it a hit!  If you're intersted, you can still join this Thursdsay.
+* Apologies for those that showed up for the OpenStack class last Saturday.  It is being held this Saturday, Sept. 19th at 9am on ZOOM.
+* If there is a link in the Meetup posting for a sign in sheet PLEASE take a minute or two to fill it out.  It really helps us!
+* Fall's coming y'all!  But thankfully we have lovely weather this week to help us ease into the season. 
 
 ---
 
@@ -33,7 +29,7 @@ Hyperlink to book on Amazon: https://www.amazon.com/Python-Crash-Course-2nd-Edit
 
 Link to the online survey: https://tinyurl.com/SFSPython
 
-[Register on Meetup](https://www.meetup.com/sofreeus/events/hxnkxrybcmbnb/)
+[Register on Meetup](https://www.meetup.com/sofreeus/events/rjrlxrybcmbwb/)
 
 ---
 

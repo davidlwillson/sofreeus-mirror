@@ -6,7 +6,7 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 ## Highlights
 
 * Help promote our classes by sharing the Meetup links on our FB (https://www.facebook.com/softwarefreedomschool/?view_public_for=1409254222735496), LinkedIn (ask to link with me linkedin.com/in/heatherwillson), or resharing on our twiiter account (SFS303)
-* The Python Peer-led study group kicked off last week!  And MAN OH MAN was it a hit!  If you're intersted, you can still join this Thursdsay.
+* The Python Peer-led study group kicked off last week!  And MAN OH MAN was it a hit!  If you're interested, you can still join this Thursday.
 * Apologies for those that showed up for the OpenStack class last Saturday.  It is being held this Saturday, Sept. 19th at 9am on ZOOM.
 * If there is a link in the Meetup posting for a sign in sheet PLEASE take a minute or two to fill it out.  It really helps us!
 * Fall's coming y'all!  But thankfully we have lovely weather this week to help us ease into the season. 

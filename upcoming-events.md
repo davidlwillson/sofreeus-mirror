@@ -57,4 +57,4 @@ If you don't see what you want, send your wish to captains@sofree.us! We definit
 * We are lifelong learners. Please share learning opportunities, even if they're not produced by SFS.
 * We are friends. You can post just about anything to the [ML](http://lists.sofree.us/cgi-bin/mailman/listinfo/sfs). If it's not free-libre, put "OT:" in the subject.
 * We are professionals. Your "help wanted" and "job wanted" posts are welcome.
-* Come hang out with us in [Mattermost](http://mm.sofree.us/sfs-team/channels/town-square)!
+* Come hang out with us in [Mattermost](https://mattermost.sofree.us/sfs303/channels/town-square)!

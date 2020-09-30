@@ -8,7 +8,7 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 * Monitoring, Alerting, and Dashboards with Prometheus, Grafana, and friends is THIS Saturday! Seats are nearly full - check out the link to get yours!
 * Intr to DevOps (ONLINE) is coming up on October 17th. Get your boss to send you, ask your friends to come. You guys ... it rocks!
 * If there is a link in the Meetup posting for a sign in sheet PLEASE take a minute or two to fill it out.  It really helps us!
-* Help promote our classes by sharing the Meetup links on our FB (https://www.facebook.com/softwarefreedomschool/?view_public_for=1409254222735496), LinkedIn (ask to link with me linkedin.com/in/heatherwillson), or resharing on our twiiter account (SFS303)
+* Help promote our classes by sharing the Meetup links on our FB (https://www.facebook.com/softwarefreedomschool/?view_public_for=1409254222735496), LinkedIn (ask to link with me linkedin.com/in/heatherwillson), or resharing on our twitter account (SFS303)
 
 ---
 

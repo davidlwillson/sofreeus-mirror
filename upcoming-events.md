@@ -4,19 +4,18 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 
 ## Highlights
-* Software Freedom Day was September 19, 2020. Did you celebrate? It's not too late!  
-* TODAY is autumnal equinox! No big pig roasts this year but what glorious weather it is to have your own cookout!
-* OpenStack ran last Saturday! YES!
-* Help promote our classes by sharing the Meetup links on our FB (https://www.facebook.com/softwarefreedomschool/?view_public_for=1409254222735496), LinkedIn (ask to link with me linkedin.com/in/heatherwillson), or resharing on our twiiter account (SFS303)
-* Intr to DevOps (ONLINE) is coming up on October 17th. Get your boss to send you, ask your friends to come. You guys ... it rock!
+* The Python study group is going well and people are learning SO much! It's holding steady with 18 attendees!  Nice job ya'll!
+* Monitoring, Alerting, and Dashboards with Prometheus, Grafana, and friends is THIS Saturday! Seats are nearly full - check out the link to get yours!
+* Intr to DevOps (ONLINE) is coming up on October 17th. Get your boss to send you, ask your friends to come. You guys ... it rocks!
 * If there is a link in the Meetup posting for a sign in sheet PLEASE take a minute or two to fill it out.  It really helps us!
+* Help promote our classes by sharing the Meetup links on our FB (https://www.facebook.com/softwarefreedomschool/?view_public_for=1409254222735496), LinkedIn (ask to link with me linkedin.com/in/heatherwillson), or resharing on our twiiter account (SFS303)
 
 ---
 
 # UPCOMING CLASSES
 
 
-## ONLINE: Python Peer-led Study Group (8 week study group) Thursday 2020-09-24
+## ONLINE: Python Peer-led Study Group (8 week study group) Thursday 2020-10-01
 
 It's time to start consuming the snake! Python is one of the most popular and versatile (not to mention powerful) programming languages around. At least that's what you've heard, right? Well, it's time to find out for sure, and we're all going to do it together.
 
@@ -30,7 +29,7 @@ Hyperlink to book on Amazon: https://www.amazon.com/Python-Crash-Course-2nd-Edit
 
 Link to the online survey: https://tinyurl.com/SFSPython
 
-[Register on Meetup](https://www.meetup.com/sofreeus/events/rjrlxrybcmbgc/)
+[Register on Meetup](https://www.meetup.com/sofreeus/events/rjrlxrybcnbcb/)
 
 ---
 

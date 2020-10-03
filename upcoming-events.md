@@ -33,7 +33,7 @@ Link to the online survey: https://tinyurl.com/SFSPython
 
 ---
 
-## OCTOBER CLASSES (postings will be up soon)
+## OCTOBER CLASSES
 
 # ONLINE: 2020-10-03 Monitoring, Alerting, and Dashboards with Prometheus, Grafana, and friends
 

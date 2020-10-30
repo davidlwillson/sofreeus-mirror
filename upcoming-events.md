@@ -4,8 +4,8 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 
 ## Highlights
-* Unfortunately, due to low attendance numbers we've had to postpone I2DO this Saturday to after the 1st of the year.
-* Join SFS this Saturday, Oct 17th from 9am-1pm on ZOOM for Hacking Hours! 
+* Hacking hours produced a lovely 3D printer!  Thanks to Gary for blessing SFS with a new toy! We've already printed a cute puppy!
+* Today was our last Python peer-led study group. Thank you to Kyle for an amazing study!  I hope you all had as much fun and David did!
 * If there is a link in the Meetup posting for a sign in sheet PLEASE take a minute or two to fill it out.  It really helps us!
 * Help promote our classes by sharing the Meetup links on our FB (https://www.facebook.com/softwarefreedomschool/?view_public_for=1409254222735496), LinkedIn (ask to link with me linkedin.com/in/heatherwillson), or resharing on our twitter account (SFS303)
 
@@ -13,30 +13,44 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 # UPCOMING CLASSES
 
-## ONLINE: Python Peer-led Study Group (week 6 of 8 study group) Thursday 2020-10-15
+---
 
-It's time to start consuming the snake! Python is one of the most popular and versatile (not to mention powerful) programming languages around. At least that's what you've heard, right? Well, it's time to find out for sure, and we're all going to do it together.
+# ONLINE: 2020-11-07 A Gentle Hands-on Introduction to Linux Containers using Docker with Alex Wise
+ 
+Description:
 
-The Software Freedom School is hosting a Python Study Group. This will be a peer led event, meeting every Thursday night from 6:00-9:00pm, starting on September 10th, for 8 weeks. Due to current circumstances there will be no in-person option, so we will all be attending via web conferencing tools.
+Linux container runtimes, like Docker, can be incredibly useful, providing immutable builds of applications that run the same on any machine.
 
-Who's teaching this you ask? We all are. This is a peer led event, and that means we're all here to help each other. We will be working out of the "Python Crash Course" book by Eric Matthes. Be sure to pick up a copy from Amazon, or where ever you like to get your geek reading materials.
+They are useful for people who write and operate software, as well as hobbyists and experimenters.
 
-The cost of attendance is PWYW (Pay What You Want) from $0-256. Just remember that there are infrastructure and hosting costs incurred by the Software Freedom School, so any contributions are much appreciated. Buying the book is your responsibility though.
+There's a lot of hype around Linux containers, come learn what they can (and can't) offer you.
 
-Hyperlink to book on Amazon: https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/
 
-Link to the online survey: https://tinyurl.com/SFSPython
-
-[Register on Meetup](https://www.meetup.com/sofreeus/events/xsbjzrybcnbtb/)
+[Register on Meetup](https://www.meetup.com/sofreeus/events/274108554/)
 
 ---
 
-# ONLINE: 2020-10-17 Hacking Hours: Even Moar of the Things!
- 
- The Comfy Room is NOT open, but you can still bring your mad hacks or help with one of ours.  Some the things we might be working on are Jitsi, Python, Big Blue Button, and Kubernets.  
- How about your?  What are you working on? Would you like to hang out with us while you do?
+# ONLINE: 2020-11-21 OWASP, Web App Firewalls, and CI/CD pipelines with Anthony Sayre
 
-[Register on Meetup](https://www.meetup.com/sofreeus/events/273813401/)
+Class Description: Do web app firewalls belong in CI/CD pipelines?
+
+Discussion/Demo/Workshop on:
+
+- Moving a containerized version of a web app firewall through a CI/CD pipeline
+
+- How to use OWASP ZAP container to attack a webapp through the waf
+
+- Autogenerate a vuln report, and save it as an artifact to your CI pipeline...
+
+- Talk about whether any of that is worth the effort for more than an exercise.
+
+[Register on Meetup](https://www.meetup.com/sofreeus/events/274132215/)
+
+---
+
+#OINLINE: 2020-12-05  ProxMox with David L Willson and Troy Ridgley
+
+Description and posting coming soon!
 
 ---
 

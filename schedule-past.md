@@ -74,3 +74,11 @@ See also: [The Future](schedule.md)
 | 2020-08-08    | Hacking Hours | online | Willson | --- | https://www.meetup.com/sofreeus/events/272387182/ | --- | --- |
 | 2020-08-22    | Hacking Hours | online | Willson | --- | https://www.meetup.com/sofreeus/events/272387196/ | --- | --- |
 | 2020-08-29    | Start Streaming or Step Up Your Meetings with OBS | Online | Ed Schaefer | #921 | #917 | #923 | #924 |
+ **September** |
+| 2020-09-10    | Python Study Group (8 weeks) | Online | Peer Led | #948 |  | #950 | 
+| 2020-09-19    | OpenStack | Online | DLW | #948 | https://www.meetup.com/sofreeus/events/273214887/ | #950 | #951 |
+| **October**   |
+| 2020-10-03    | Prometheus, Grafana, and Friends | Online | Mike Shoup, Justin Lang, and DLW | #912 | #913 | #914 | #915 |
+| 2020-10-17    | CANCELED Intro to DevOps | Online | Aaron and Anthony | #943 | #944 | #945 | #946 |
+| 2020-11-07    | CANCELED DevSecOps Beta |  | Anthony and ??? |  |  |  |  |
+| 2020-11-21    | CANCELED DevSecOps Round 1 |  | Anthony and ??? |  |  |  |  |

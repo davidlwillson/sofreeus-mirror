@@ -48,7 +48,7 @@ Discussion/Demo/Workshop on:
 
 ---
 
-#OINLINE: 2020-12-05  ProxMox with David L Willson and Troy Ridgley
+# ONLINE: 2020-12-05  ProxMox with David L Willson and Troy Ridgley
 
 Description and posting coming soon!
 

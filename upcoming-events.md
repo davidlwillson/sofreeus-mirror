@@ -50,7 +50,27 @@ Discussion/Demo/Workshop on:
 
 # ONLINE: 2020-12-05  ProxMox with David L Willson and Troy Ridgley
 
-Description and posting coming soon!
+Pmox is an easier, awesomer way to do VMs and Containers in your small data center than vanilla KVM, VMware, or OpenStack. (Sorry OpenStack, but it's true. Maybe if you stopped being so difficult, people would like you better.)
+
+During the class, we'll:
+
+- Assemble a multi-node cluster
+
+- Manage user accounts
+
+- Add install media
+
+- Create VMs
+
+- Create LXC containers from templates
+
+- Move VMs from host to host
+
+- Schedule backups
+
+- Check out how easy it is to set up hardware pass-thru
+
+[Register on Meetup](https://www.meetup.com/sofreeus/events/274458925/)
 
 ---
 

@@ -11,8 +11,8 @@ See also: [The Past](schedule-past.md)
 | 2020-10-03    | Prometheus, Grafana, and Friends | Online | Mike Shoup, Justin Lang, and DLW | #912 | #913 | #914 | #915 |
 | 2020-10-17    | Intro to DevOps | Online | Aaron and Anthony | #943 | #944 | #945 | #946 |
 | **November**  |
-| 2020-11-07    | DevSecOps Beta |  | Anthony and ??? |  |  |  |  |
-| 2020-11-21    | DevSecOps Round 1 |  | Anthony and ??? |  |  |  |  |
+| 2020-11-07    | DevSecOps Beta |  | Anthony |  |  |  |  |
+| 2020-11-21    | DevSecOps Round 1 | Online | Anthony |  |  |  |  |
 | **December**  |
-| 2020-12-05    | Proxmox | ??? | Troy Ridgley (and DLW) |  |  |  |  |
+| 2020-12-05    | Proxmox | Online | Troy Ridgley (and DLW) | #963 | #964 | #965 | #966 |
 | 2020-12-19    | Year Retro + Thank You Dinner |  |  |  |  |  |  |

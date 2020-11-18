@@ -4,8 +4,8 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 
 ## Highlights
-* Hacking hours produced a lovely 3D printer!  Thanks to Gary for blessing SFS with a new toy! We've already printed a cute puppy!
-* Today was our last Python peer-led study group. Thank you to Kyle for an amazing study!  I hope you all had as much fun and David did!
+* Thank you Kyle Peters for an amazing Python study group.  I konw it's been over for a couple weeks but folks are still gathering and having a good time!  Our community is lovely!
+*  Docker was a hit!  Thanks Alex!
 * If there is a link in the Meetup posting for a sign in sheet PLEASE take a minute or two to fill it out.  It really helps us!
 * Help promote our classes by sharing the Meetup links on our FB (https://www.facebook.com/softwarefreedomschool/?view_public_for=1409254222735496), LinkedIn (ask to link with me linkedin.com/in/heatherwillson), or resharing on our twitter account (SFS303)
 
@@ -15,22 +15,10 @@ Would you rather view the Upcoming Events in your browser? [Click here](https://
 
 ---
 
-# ONLINE: 2020-11-07 A Gentle Hands-on Introduction to Linux Containers using Docker with Alex Wise
- 
-Description:
-
-Linux container runtimes, like Docker, can be incredibly useful, providing immutable builds of applications that run the same on any machine.
-
-They are useful for people who write and operate software, as well as hobbyists and experimenters.
-
-There's a lot of hype around Linux containers, come learn what they can (and can't) offer you.
-
-
-[Register on Meetup](https://www.meetup.com/sofreeus/events/274108554/)
-
----
-
 # ONLINE: 2020-11-21 OWASP, Web App Firewalls, and CI/CD pipelines with Anthony Sayre
+
+Please use the following link to sign in to SFS PRIOR to class:
+https://tinyurl.com/OWASPCICD
 
 Class Description: Do web app firewalls belong in CI/CD pipelines?
 
@@ -44,9 +32,13 @@ Discussion/Demo/Workshop on:
 
 - Talk about whether any of that is worth the effort for more than an exercise.
 
-[Register on Meetup](https://www.meetup.com/sofreeus/events/274132215/)
+Requirements:
 
----
+- GCP and Gitlab account
+
+Cost of class: $16 or PWYC
+
+[Register on Meetup](https://www.meetup.com/sofreeus/events/274132215/?success=email_sent&success=mailinglist_sent)
 
 # ONLINE: 2020-12-05  ProxMox with David L Willson and Troy Ridgley
 
@@ -70,7 +62,13 @@ During the class, we'll:
 
 - Check out how easy it is to set up hardware pass-thru
 
+- Cost of Class: $32 or PWYC
+
 [Register on Meetup](https://www.meetup.com/sofreeus/events/274458925/)
+
+# ONLINE: 2020-12-19 Cooking class with Heather L. Willson! 
+
+- this class will be 1-2 hours long cooking and/or baking item(s) TBD
 
 ---
 

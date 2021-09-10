@@ -6,11 +6,10 @@ Welcome and Purpose
 Free Software Definition
 
 > Free Software is software that you are free to:
-
 > - **Use** for whatever purpose you see fit.
 > - **Study** how it works, for which access to the source code is a pre-requisite
 > - **Share** with your friends.
-> - **Modify** to to better suit your needs.
+> - **Modify** to better suit your needs.
 
 > In sum, Free Software authors respect your freedom to do science and art with the software.
 > That seems like a good reason to prefer Free Software over non-free, proprietary software.
@@ -18,16 +17,17 @@ Free Software Definition
 Libre Not Gratis - Request For Payment / Pay What You Choose
 
 > SFS class materials are free-libre like Free Software.
+
 > SFS class deliveries are *not* free-gratis like the pretzels in a bar. SFS does not give away class deliveries as a loss-leader to something else. SFS only sells class deliveries. If it doesn't make money on class deliveries, it doesn't make money.
 
 > The ask for today's class is: ___ USD/BTC/whatever
 
-> You may pay the ask or pay what you choose: more, less, or differently.
+> You may pay the ask or Pay What You Choose: more, less, or differently.
 
-> Common PWYCs are:
-> - pay with crypto-currency
-> - send a postcard
-> - create and/or deliver a class (our favorite, and you can make money at it).
+> Common ways to Pay What You Choose are:
+> - Pay with **crypto-currency**
+> - Send a **postcard** with a picture of you saving a whale or a kitten.
+> - **Teach** a class. This is our favorite, and you can make money at it!
 
 Restrooms, Refreshments, Recycling
 

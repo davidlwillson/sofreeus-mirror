@@ -6,9 +6,9 @@ See also: [The Past](schedule-past.md)
 | ------------- | --------- | ------------ | ----------------- | ---- | ---- | ------- | ------ |
 | **September** |
 | 2021-09-04 | A is for Ansible | hybrid | DLW | [x] | https://www.meetup.com/sofreeus/events/280489199/ | [x] | [x] |
-| 2021-09-11 | B is for Bash | hybrid | DLW | - | https://www.meetup.com/sofreeus/events/280667557/ | [x] | [ ] |
-| 2021-09-18 | C is for C  | hybrid | BG | - | https://www.meetup.com/sofreeus/events/280780284/ | [x] | [ ] |
-| 2021-09-23 | D is for Docker | hybrid | DLW | - | https://www.meetup.com/sofreeus/events/280923547/ | [x] | [ ] |
+| 2021-09-11 | B is for Bash | hybrid | DLW | [x] | https://www.meetup.com/sofreeus/events/280667557/ | [x] | [ ] |
+| 2021-09-18 | C is for C  | hybrid | BG |  | https://www.meetup.com/sofreeus/events/280780284/ | [x] | [ ] |
+| 2021-09-23 | D is for Docker | hybrid | DLW | [x] | https://www.meetup.com/sofreeus/events/280923547/ | [x] | [ ] |
 | 2021-09-25 | D is for Data Structures | online | KD | [ ] | https://www.meetup.com/sofreeus/events/280928738 | [ ] | [ ] |
 | 2021 week 39 | E is for ... |
 | ? | Everything and Everyone | online | DLW | [ ] | [ ] | [ ] | [ ] |

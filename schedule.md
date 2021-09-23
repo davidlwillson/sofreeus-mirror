@@ -9,29 +9,30 @@ See also: [The Past](schedule-past.md)
 | 2021-09-11 | B is for Bash | hybrid | DLW | - | https://www.meetup.com/sofreeus/events/280667557/ | [x] | [ ] |
 | 2021-09-18 | C is for C  | hybrid | BG | - | https://www.meetup.com/sofreeus/events/280780284/ | [x] | [ ] |
 | 2021-09-23 | D is for Docker | hybrid | DLW | - | https://www.meetup.com/sofreeus/events/280923547/ | [x] | [ ] |
-| 2021-09-25 | D is for Data Structures | hybrid | KD | - | [ ] | [ ] | [ ] |
+| 2021-09-25 | D is for Data Structures | online | KD | https://www.meetup.com/sofreeus/events/280928738 | [ ] | [ ] | [ ] |
 | 2021 week 39 - E is for ... |
-| - | Eclipse | - | ? | - | - | - | - |
-| - | Everything and Everyone | - | DLW | - | - | - | - |
-| - | Encryption | - | Viktoria? | - | - | - | - |
+| - | Everything and Everyone | online | DLW | - | - | - | - |
+| ? | Encryption | - | Viktoria | - | - | - | - |
 | 2021 week 40 - F is for ... |
 | - | Freedom | - | DLW | - | - | - | - |
 | 2021 week 41 - G is for ... |
 | - | git and GitLab | - | JSH | - | - | - | - |
-| - | Games: Mindustry [fixme] | - | DLW | - | - | - | - |
+| - | Games: Mindustry, iFrac, gnomine, +RasPi list  | - | DLW | - | - | - | - |
 | 2021 week 42 - H is for ... |
 | - | Helm | - | ? | - | - | - | - |
+| - | Help - 5FDP | - | DLW and GAR | - | - | - | - |
 | 2021 week 43 - I is for ... |
 | - | Infrastructure | - | ? | - | - | - | - |
 | 2021 week 44 - J is for ... |
+| - | Jaeger | - | ACW | - | - | - | - |
 | 2021 week 45 - K is for ... |
 | 2021 week 46 - L is for ... |
-| - | Linux | - | Garheade | - | - | - | - |
+| - | Linux | - | GAR | - | - | - | - |
 | 2021 week 47 - M is for ... |
 | - | Monitoring | - | ? | - | - | - | - |
 | 2021 week 48 - N is for ... |
 | 2021 week 49 - O is for ... |
-| - | Observability | - | ? | - | - | - | - |
+| - | OpenTelemetry | - | ACW | - | - | - | - |
 | 2021 week 50 - P is for ... |
 | 2021 week 51 - Q is for ... |
 | 2021 week 52 - R is for ... |

@@ -16,7 +16,7 @@ See also: [The Past](schedule-past.md)
 | 2021 week 40 - F is for ... |
 | - | Freedom | - | DLW | - | - | - | - |
 | 2021 week 41 - G is for ... |
-| - | Version Control | hybrid | JSH | - | - | - | - |
+| 2021-10-16 | Version Control | hybrid | JSH | - | - | - | - |
 | - | Games: Mindustry, iFrac, gnomine, +RasPi list  | - | DLW | - | - | - | - |
 | 2021 week 42 - H is for ... |
 | - | Helm | - | ? | - | - | - | - |

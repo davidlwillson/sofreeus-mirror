@@ -9,7 +9,7 @@ See also: [The Past](schedule-past.md)
 | 2021-09-11 | B is for Bash | hybrid | DLW | - | https://www.meetup.com/sofreeus/events/280667557/ | [x] | [ ] |
 | 2021-09-18 | C is for C  | hybrid | BG | - | https://www.meetup.com/sofreeus/events/280780284/ | [x] | [ ] |
 | 2021-09-23 | D is for Docker | hybrid | DLW | - | https://www.meetup.com/sofreeus/events/280923547/ | [x] | [ ] |
-| 2021-09-25 | D is for Data Structures | online | KD | https://www.meetup.com/sofreeus/events/280928738 | [ ] | [ ] | [ ] |
+| 2021-09-25 | D is for Data Structures | online | KD | [ ] | https://www.meetup.com/sofreeus/events/280928738 | [ ] | [ ] |
 | 2021 week 39 - E is for ... |
 | - | Everything and Everyone | online | DLW | - | - | - | - |
 | ? | Encryption | - | Viktoria | - | - | - | - |

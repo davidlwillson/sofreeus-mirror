@@ -24,7 +24,6 @@ See also: [The Past](schedule-past.md)
 | 2021 week 43 | I is for ... |
 | ? | Infrastructure | - | ?| [ ] | [ ] | [ ] | [ ] |
 | 2021 week 44 | J is for ... |
-| ? | Jaeger | ? | ACW | [ ] | [ ] | [ ] | [ ] |
 | 2021 week 45 | K is for ... |
 | 2021 week 46 | L is for ... |
 | ? | Linux | ? | GAR | [ ] | [ ] | [ ] | [ ] |
@@ -32,7 +31,7 @@ See also: [The Past](schedule-past.md)
 | ? | Monitoring | ? | ? | [ ] | [ ] | [ ] | [ ] |
 | 2021 week 48 | N is for ... |
 | 2021 week 49 | O is for ... |
-| ? | OpenTelemetry | ? | ACW | [ ] | [ ] | [ ] | [ ] |
+| ? | Observability | ? | ACW | [ ] | [ ] | [ ] | [ ] |
 | 2021 week 50 | P is for ... |
 | 2021 week 51 | Q is for ... |
 | 2021 week 52 | R is for ... |

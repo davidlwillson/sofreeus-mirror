@@ -11,8 +11,7 @@ See also: [The Past](schedule-past.md)
 | 2021-09-23 | D is for Docker | hybrid | DLW | [x] | https://www.meetup.com/sofreeus/events/280923547/ | [x] | [ ] |
 | 2021-09-25 | D is for Data Structures | online | KD | [ ] | https://www.meetup.com/sofreeus/events/280928738 | [ ] | [ ] |
 | 2021 week 39 | E is for ... |
-| ? | Everything and Everyone | online | DLW | [ ] | [ ] | [ ] | [ ] |
-| ? | Encryption | online | Viktoria | [ ] | [ ] | [ ] | [ ] |
+| 2021-10-07 | Encryption | online | Viktoria | [x] | [https://www.meetup.com/sofreeus/events/281021946/] | [X] | [ ] |
 | 2021 week 40 | F is for ... |
 | ? | Freedom | online | DLW | [ ] | [ ] | [ ] | [ ] |
 | 2021 week 41 | G is for ... |
@@ -27,6 +26,7 @@ See also: [The Past](schedule-past.md)
 | 2021 week 45 | K is for ... |
 | 2021 week 46 | L is for ... |
 | ? | Linux | ? | GAR | [ ] | [ ] | [ ] | [ ] |
+| ? | Log aggregation with ELK | ? | GAR | [ ] | [ ] | [ ] | [ ] |
 | 2021 week 47 | M is for ... |
 | ? | Monitoring | ? | ? | [ ] | [ ] | [ ] | [ ] |
 | 2021 week 48 | N is for ... |

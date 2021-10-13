@@ -13,7 +13,7 @@ See also: [The Past](schedule-past.md)
 | 2021 week 39 | E is for ... |
 | 2021-10-07 | Encryption | online | Viktoria | [x] | [https://www.meetup.com/sofreeus/events/281021946/] | [X] | [ ] |
 | 2021 week 40 | F is for ... |
-| ? | Freedom | online | DLW | [ ] | [ ] | [ ] | [ ] |
+| ? | Freedom | online | DLW | [ ] | [https://www.meetup.com/sofreeus/events/281389995/] | [ ] | [ ] |
 | 2021 week 41 | G is for ... |
 | 2021-10-16 | Version Control | hybrid | JSH| [ ] | [ ] | [ ] | [ ] |
 | ? | Games: Mindustry, iFrac, gnomine, +RasPi list  | hybrid | DLW| [ ] | [ ] | [ ] | [ ] |

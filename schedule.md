@@ -5,9 +5,9 @@ See also: [The Past](schedule-past.md)
 | Date          | Subject   | Location     | Teacher           | Prep | Post | Promote | Payout |
 | ------------- | --------- | ------------ | ----------------- | ---- | ---- | ------- | ------ |
 | 2021 week 40 | F is for ... |
-| ? | Freedom | online | DLW | [x] | [https://www.meetup.com/sofreeus/events/281389995/] | [x] | [x] |
+| 2021-10-15 | Freedom | online | DLW | [x] | [https://www.meetup.com/sofreeus/events/281389995/] | [x] | [x] |
 | 2021 week 41 | G is for ... |
-| 2021-10-16 | Version Control | hybrid | JSH| [ ] | [https://www.meetup.com/sofreeus/events/281472687/] | [ ] | [ ] |
+| 2021-10-23 | Version Control | hybrid | JSH| [ ] | [https://www.meetup.com/sofreeus/events/281472687/] | [ ] | [ ] |
 | 2021 week 42 | H is for ... |
 | ? | Help - 5FDP | hybrid | DLW and GAR| [ ] | [ ] | [ ] | [ ] |
 | 2021 week 43 | I is for ... |
@@ -38,5 +38,6 @@ See also: [The Past](schedule-past.md)
 
 ---
 
+| ------------- | --------- | ------------ | ----------------- | ---- | ---- | ------- | ------ |
 | ? | Games: Mindustry, iFrac, gnomine, +RasPi list  | hybrid | DLW| [ ] | [ ] | [ ] | [ ] |
 | ? | Helm | - | ? | [ ] | [ ] | [ ] | [ ] |

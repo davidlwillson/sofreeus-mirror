@@ -86,3 +86,11 @@ See also: [The Future](schedule.md)
 | **December**  |
 | 2020-12-05    | Proxmox | Online | Troy Ridgley (and DLW) | #963 | #964 | #965 | #966 |
 | 2020-12-19    | Year Retro + Thank You Dinner |  |  |  |  |  |  |
+| **September** |
+| 2021-09-04 | A is for Ansible | hybrid | DLW | [x] | https://www.meetup.com/sofreeus/events/280489199/ | [x] | [x] |
+| 2021-09-11 | B is for Bash | hybrid | DLW | [x] | https://www.meetup.com/sofreeus/events/280667557/ | [x] | [ ] |
+| 2021-09-18 | C is for C  | hybrid | BG |  | https://www.meetup.com/sofreeus/events/280780284/ | [x] | [ ] |
+| 2021-09-23 | D is for Docker | hybrid | DLW | [x] | https://www.meetup.com/sofreeus/events/280923547/ | [x] | [ ] |
+| 2021-09-25 | D is for Data Structures | online | KD | [ ] | https://www.meetup.com/sofreeus/events/280928738 | [ ] | [ ] |
+| 2021 week 39 | E is for ... |
+| 2021-10-07 | Encryption | online | Viktoria | [x] | [https://www.meetup.com/sofreeus/events/281021946/] | [X] | [ ] |

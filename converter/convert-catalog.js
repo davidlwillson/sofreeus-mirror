@@ -39,7 +39,7 @@ fs.readFile(__dirname + '/style.css', function (err, styleData) {
 
     converter.setFlavor('original');
 
-    let filePath = __dirname + "/sfs-class-catalog.html";
+    let filePath = __dirname + "/public/sfs-class-catalog.html";
     fs.writeFile(filePath, html, function(err) { 
       console.log("Done, saved to " + filePath);
     }); 
